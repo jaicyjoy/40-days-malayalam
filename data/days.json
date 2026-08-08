@@ -4,21 +4,25 @@
     "subtitle": "Eucharistic Deliverance Prayer",
     "priest": "Father Daniel",
     "endsOn": "8 September",
-    "currentDay": 3,
+    "currentDay": 8,
     "totalDays": 40
   },
   "dailyPractices": [
     "Attend Holy Mass every day, if possible",
-    "Spend time in Eucharistic Adoration (about one hour)",
-    "Pray for your ancestors",
+    "Spend time in Eucharistic Adoration",
+    "Pray for your ancestors every day",
     "Observe a fast if you are able",
-    "Watch the introductory episode for the full way of participating"
+    "Watch the introductory episode for the full way of participating",
+    "Before sleep: ask the Lord to help you not miss tomorrow’s prayer",
+    "Write important points in a notebook and complete each day’s task"
   ],
   "days": [
     {
       "day": 1,
       "theme": "The Cosmic Temple",
       "scripture": "Genesis 1 — Creation as God's temple",
+      "emoji": "🌌",
+      "color": "#3ec6ff",
       "summary": "God created the universe like a temple and rests within it. We were created for one purpose: to worship Him. Our true identity is that of a worshipper.",
       "keyThought": "God created me for no other reason than to worship Him. The universe is a cosmic temple, and the invitation of the seventh day is a call to worship.",
       "virtue": {
@@ -49,6 +53,8 @@
       "day": 2,
       "theme": "The Tree of Life",
       "scripture": "Genesis 2:9; 3:22–24",
+      "emoji": "🌳",
+      "color": "#2bb673",
       "summary": "The Holy Eucharist is the fruit of the Tree of Life. Through the Cross—the new Tree of Life—Jesus gives us eternal life. Worship restores the experience of Eden.",
       "keyThought": "Every time we approach the Holy Eucharist, we are securing eternal life. The Eucharist is the Medicine of Immortality.",
       "virtue": {
@@ -79,6 +85,8 @@
       "day": 3,
       "theme": "The Seventh Day",
       "scripture": "Genesis 2:1–3",
+      "emoji": "🕊️",
+      "color": "#8b6cff",
       "summary": "The first thing God sanctified was not a place or a person, but a time—the seventh day. Sunday and every Eucharist call us into covenant family with God and into His rest.",
       "keyThought": "Every celebration of the Holy Eucharist is that precious seventh day—time to cast our burdens on the Lord, remember we are God's children, and enter His rest.",
       "virtue": {
@@ -104,6 +112,70 @@
         "Cast your burden on the Lord. Enter His rest: when God is Father, our burdens become His, and our soul finds peace."
       ],
       "closing": "Praised be the Most Blessed, Most Holy Sacrament of the Altar, forever and ever. Amen."
+    },
+    {
+      "day": 6,
+      "theme": "Melchizedek & Blessing",
+      "scripture": "Genesis 14:17–20 · Joshua 24:2 · Joel 2:25",
+      "emoji": "🍷",
+      "color": "#ff7a59",
+      "summary": "Melchizedek brought bread and wine and restored to Abraham the ancestral blessing that had been broken by idolatry. Lost blessings are reclaimed at the altar through Holy Mass.",
+      "keyThought": "Whatever divine grace our ancestors may have lost, we reclaim through the altar—by offering ourselves in sacrifice and participating in Holy Mass.",
+      "virtue": {
+        "title": "Forgiveness",
+        "detail": "Decide before the Lord to forgive from the heart those who have hurt you, made you weep, or humiliated you. We can forgive only if the Lord helps us."
+      },
+      "evil": {
+        "title": "Enmity",
+        "detail": "Pray for the grace to put an end to enmity, overcome hostility, and live in love."
+      },
+      "prayer": {
+        "title": "Today's Prayer",
+        "text": "Lord, forgive our debts and our sins just as we have forgiven our debtors.\n\nRepeat this prayer many times today."
+      },
+      "task": {
+        "title": "Today's Task",
+        "detail": "Read the hymn to love in 1 Corinthians 13 two or three times. Then pray for the grace to love everyone, forgive everyone, and receive a heart broad enough to embrace all. Also thank God for the blessings He has given you."
+      },
+      "reflection": [
+        "A blessing is God's grace passed from God through human hands—from generation to generation.",
+        "Abraham's family line had lost the blessing through idolatry. Melchizedek restored it through bread and wine offered as a priest of God Most High.",
+        "If ancestors caused tears, injustice, idolatry, or superstition, the way forward is to build altars and offer sacrifice—participate in Holy Mass every day.",
+        "The first 10 days are for sanctification. Write key points in a notebook, do the tasks, and pray for your ancestors daily."
+      ],
+      "closing": "O Sacrament most holy, O Sacrament divine, all praise and all thanksgiving be every moment Thine."
+    },
+    {
+      "day": 8,
+      "theme": "The Altar",
+      "scripture": "Genesis 28:10–19 · Exodus 20:24 · Judges 6:25–26",
+      "emoji": "⛪",
+      "color": "#ff5aad",
+      "summary": "An altar is more than stone or wood—it is the place where God comes down to bless His people. Altars are living: even after we die, the work of God there continues through the generations.",
+      "keyThought": "Every Holy Mass builds an altar that does not end with our lifetime. Tear down evil altars by building an altar to the Lord—through worship.",
+      "virtue": {
+        "title": "Gratitude",
+        "detail": "Remember eight or nine blessings in your life and thank God for them, so gratitude becomes a habit."
+      },
+      "evil": {
+        "title": "Ingratitude & Complaining",
+        "detail": "Remove ingratitude and the habit of complaining—one of the clearest signs of an unthankful heart."
+      },
+      "prayer": {
+        "title": "Today's Prayer — Psalm 116:12–14",
+        "text": "What shall I render to the Lord for all his bounty to me?\nI will lift up the cup of salvation and call on the name of the Lord.\nI will pay my vows to the Lord in the presence of all his people."
+      },
+      "task": {
+        "title": "Today's Task",
+        "detail": "Spend one whole day without complaining—not even once, no matter what happens. Also thank God for eight or nine specific blessings."
+      },
+      "reflection": [
+        "Expect obstacles after the first seven days: busyness, quarrels, fear dreams, sudden temptations. Do not be afraid—this can mean your prayer is striking where it should. Remain vigilant.",
+        "An altar is the runway where God lands—the medium by which His presence and power enter human life (Exodus 20:24).",
+        "Jacob at Bethel lay on a stone from Abraham's altar; the altar's power was still alive. Altars built to God—or to the devil—continue through generations.",
+        "If ancestors built altars to the devil, tear them down by building an altar to the Lord: confess Jesus, worship, and attend Holy Mass faithfully."
+      ],
+      "closing": "O Sacrament most holy, O Sacrament divine, all praise and all thanksgiving be every moment Thine."
     }
   ]
 }

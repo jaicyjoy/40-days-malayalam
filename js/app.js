@@ -1,11 +1,15 @@
 (() => {
   const TOTAL_DAYS = 40;
+  const COLORS = ["#3ec6ff", "#ffe566", "#2bb673", "#ff7a59", "#ff5aad", "#8b6cff", "#7dffb3", "#ff9ad5"];
+  const LOCKED_EMOJIS = ["🌱", "✨", "🕯️", "📖", "🙏", "⭐", "🌻", "💧"];
 
   const els = {
     practices: document.getElementById("practices-list"),
     progress: document.getElementById("progress-note"),
+    readyBadge: document.getElementById("ready-badge"),
     grid: document.getElementById("days-grid"),
     panel: document.getElementById("day-panel"),
+    hero: document.getElementById("panel-hero"),
     toast: document.getElementById("toast"),
     eyebrow: document.getElementById("panel-eyebrow"),
     theme: document.getElementById("panel-theme"),
@@ -54,36 +58,48 @@
     const current = series.currentDay || availableDays[availableDays.length - 1] || 1;
 
     for (let day = 1; day <= TOTAL_DAYS; day += 1) {
-      const hasContent = daysByNumber.has(day);
+      const data = daysByNumber.get(day);
+      const hasContent = Boolean(data);
       const btn = document.createElement("button");
       btn.type = "button";
-      btn.className = "day-chip";
+      btn.className = "quest-card";
       btn.setAttribute("role", "listitem");
       btn.dataset.day = String(day);
+
+      const color = data?.color || COLORS[(day - 1) % COLORS.length];
+      btn.style.setProperty("--card-color", color);
 
       if (hasContent) {
         btn.classList.add("available");
         if (day === current) btn.classList.add("current");
-        btn.setAttribute("aria-label", `Open Day ${day}`);
+        btn.setAttribute("aria-label", `Open Day ${day}: ${data.theme}`);
+        btn.innerHTML = `
+          <span class="emoji" aria-hidden="true">${data.emoji || "✨"}</span>
+          <h3>Day ${day}</h3>
+          <p>${data.theme}</p>
+          <span class="lock-tag">Open</span>
+        `;
+        btn.addEventListener("click", () => openDay(day));
       } else {
         btn.classList.add("locked");
         btn.setAttribute("aria-label", `Day ${day} coming soon`);
-      }
-
-      btn.innerHTML = `<span class="num">${day}</span><span class="label">Day</span>`;
-      btn.addEventListener("click", () => {
-        if (!hasContent) {
+        btn.innerHTML = `
+          <span class="emoji" aria-hidden="true">${LOCKED_EMOJIS[(day - 1) % LOCKED_EMOJIS.length]}</span>
+          <h3>Day ${day}</h3>
+          <p>Coming soon</p>
+          <span class="lock-tag">Soon</span>
+        `;
+        btn.addEventListener("click", () => {
           showToast(`Day ${day} will be added soon. Keep praying.`);
-          return;
-        }
-        openDay(day);
-      });
+        });
+      }
 
       els.grid.appendChild(btn);
     }
 
     const readyCount = availableDays.length;
-    els.progress.innerHTML = `<strong>${readyCount}</strong> of ${TOTAL_DAYS} days ready · Currently guided through Day <strong>${current}</strong>`;
+    els.progress.innerHTML = `<strong>${readyCount}</strong> of ${TOTAL_DAYS} days ready`;
+    els.readyBadge.textContent = `${readyCount} / ${TOTAL_DAYS} ready`;
   }
 
   function openDay(dayNumber) {
@@ -106,6 +122,9 @@
     els.task.textContent = day.task.detail;
     els.closing.textContent = day.closing || "";
 
+    els.hero.style.setProperty("--ch-color", day.color || "#3ec6ff");
+    els.hero.style.setProperty("--ch-emoji", `"${day.emoji || "✨"}"`);
+
     els.reflection.innerHTML = "";
     (day.reflection || []).forEach((point) => {
       const li = document.createElement("li");
@@ -116,14 +135,12 @@
     const idx = availableDays.indexOf(dayNumber);
     els.prev.disabled = idx <= 0;
     els.next.disabled = idx >= availableDays.length - 1;
-    els.prev.style.opacity = els.prev.disabled ? "0.45" : "1";
-    els.next.style.opacity = els.next.disabled ? "0.45" : "1";
 
     els.panel.classList.add("open");
     els.panel.scrollIntoView({ behavior: "smooth", block: "start" });
 
-    document.querySelectorAll(".day-chip").forEach((chip) => {
-      chip.classList.toggle("current", Number(chip.dataset.day) === dayNumber);
+    document.querySelectorAll(".quest-card").forEach((card) => {
+      card.classList.toggle("current", Number(card.dataset.day) === dayNumber);
     });
 
     history.replaceState(null, "", `#day-${dayNumber}`);
@@ -146,14 +163,6 @@
   els.prev.addEventListener("click", () => goRelative(-1));
   els.next.addEventListener("click", () => goRelative(1));
   els.close.addEventListener("click", closePanel);
-
-  document.querySelector('a[href="#days"]').addEventListener("click", (event) => {
-    const current = series?.currentDay || availableDays[availableDays.length - 1];
-    if (current && daysByNumber.has(current)) {
-      event.preventDefault();
-      openDay(current);
-    }
-  });
 
   async function init() {
     try {
@@ -179,6 +188,7 @@
     } catch (error) {
       console.error(error);
       els.progress.textContent = "Unable to load the days right now. Please refresh the page.";
+      els.readyBadge.textContent = "Error";
     }
   }
 
