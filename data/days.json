@@ -1,0 +1,109 @@
+{
+  "series": {
+    "title": "40 Days",
+    "subtitle": "Eucharistic Deliverance Prayer",
+    "priest": "Father Daniel",
+    "endsOn": "8 September",
+    "currentDay": 3,
+    "totalDays": 40
+  },
+  "dailyPractices": [
+    "Attend Holy Mass every day, if possible",
+    "Spend time in Eucharistic Adoration (about one hour)",
+    "Pray for your ancestors",
+    "Observe a fast if you are able",
+    "Watch the introductory episode for the full way of participating"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "theme": "The Cosmic Temple",
+      "scripture": "Genesis 1 — Creation as God's temple",
+      "summary": "God created the universe like a temple and rests within it. We were created for one purpose: to worship Him. Our true identity is that of a worshipper.",
+      "keyThought": "God created me for no other reason than to worship Him. The universe is a cosmic temple, and the invitation of the seventh day is a call to worship.",
+      "virtue": {
+        "title": "Trust",
+        "detail": "Depend on God. Believe in Him blindly. Practice relying on the Lord rather than on your own strength."
+      },
+      "evil": {
+        "title": "Self-reliance",
+        "detail": "Renounce relying solely upon yourself—thinking you can manage life without God's help."
+      },
+      "prayer": {
+        "title": "Today's Prayer",
+        "text": "Jesus, I trust in You.\nLord, I depend on You completely. I surrender to You totally."
+      },
+      "task": {
+        "title": "Today's Task",
+        "detail": "Choose five ordinary everyday things you usually do without asking God's help (eating, walking, driving, washing clothes, preparing food, going to the office, etc.). Consciously ask for God's help in each of those five things today."
+      },
+      "reflection": [
+        "The Bible presents creation like the building of a temple: form is given, then the temple is filled, and God rests enthroned within it.",
+        "The seventh day of rest has not ended—anyone may enter God's rest through worship and adoration.",
+        "Adoration becomes reparation: in this 40-day journey we offer reparation for every place where the Holy Eucharist has been profaned.",
+        "Like St. Padre Pio, find your joy not in recognition or worldly things, but in worship. A life of praise is a life without complaints."
+      ],
+      "closing": "May eternal praise, adoration, and glory be given to the Most Holy and Blessed Sacrament of the Altar!"
+    },
+    {
+      "day": 2,
+      "theme": "The Tree of Life",
+      "scripture": "Genesis 2:9; 3:22–24",
+      "summary": "The Holy Eucharist is the fruit of the Tree of Life. Through the Cross—the new Tree of Life—Jesus gives us eternal life. Worship restores the experience of Eden.",
+      "keyThought": "Every time we approach the Holy Eucharist, we are securing eternal life. The Eucharist is the Medicine of Immortality.",
+      "virtue": {
+        "title": "Purity",
+        "detail": "Pray especially for sexual purity—purity of body, thoughts, memories, imaginations, dreams, sight, and hearing."
+      },
+      "evil": {
+        "title": "Lust",
+        "detail": "Renounce lustful desires, cravings, and passions. Ask the Lord that these desires leave you."
+      },
+      "prayer": {
+        "title": "Today's Prayer",
+        "text": "Lord, protect my eyes from all evil sights, and protect my heart from all evil desires."
+      },
+      "task": {
+        "title": "Today's Task — Seeing vs Looking",
+        "detail": "Practice self-control with your eyes. You may see something, but do not look again when a desire arises to gaze a second time. When the urge comes to look once more, withdraw your eyes. Train this gently throughout the day."
+      },
+      "reflection": [
+        "God blocked the Tree of Life after the Fall so that humanity would not become immortal in a state of sin. He walked out of Eden with Adam and Eve—He did not abandon them.",
+        "In the eyes of the Church Fathers, the Holy Eucharist is the fruit of the Tree of Life. St. Ignatius of Antioch called it the Medicine of Immortality.",
+        "Death entered through a fruit; life also enters through a fruit—the Holy Eucharist, fruit of the Cross.",
+        "Worship is returning to the Garden of Eden. Find your joy in sitting close to the Lord—earthly gifts can be taken back, but joy from God cannot be stolen."
+      ],
+      "closing": "Praised, adored, and glorified be the Holy, Most Blessed Sacrament of the Altar."
+    },
+    {
+      "day": 3,
+      "theme": "The Seventh Day",
+      "scripture": "Genesis 2:1–3",
+      "summary": "The first thing God sanctified was not a place or a person, but a time—the seventh day. Sunday and every Eucharist call us into covenant family with God and into His rest.",
+      "keyThought": "Every celebration of the Holy Eucharist is that precious seventh day—time to cast our burdens on the Lord, remember we are God's children, and enter His rest.",
+      "virtue": {
+        "title": "Openness of the Soul",
+        "detail": "Desire that the doors of your soul be opened for communion with God—so that your soul can remain connected with Him, not distracted after two minutes of prayer."
+      },
+      "evil": {
+        "title": "Spiritual Blindness",
+        "detail": "Turn away from spiritual blindness and deafness—the closed faculties of the soul, the inability to hear God's voice, and lack of openness to prayer. (cf. 2 Corinthians 4:4)"
+      },
+      "prayer": {
+        "title": "Today's Prayer",
+        "text": "Lord, open all the doors of my soul to communicate with You.\nOpen the doors of spiritual communion so that my soul may remain united with You.\n\nOffer a full Rosary today, seeking Our Lady's intercession, that spiritual blindness may be removed and divine communion may be opened."
+      },
+      "task": {
+        "title": "Today's Task",
+        "detail": "Recite a full Rosary for this intention. Keep today's thoughts in your heart: covenant, rest, and openness of the soul. No additional task is prescribed beyond the Rosary."
+      },
+      "reflection": [
+        "Seven is the number of covenant. Sunday worship proclaims that God and we are family—God is our Father.",
+        "Man was created on the sixth day, but called into the seventh. Six without seven is self-reliance and the spirit of the antichrist; seven is divine relationship and worship.",
+        "God blessed and made holy the seventh day—time spent united with God has special power to change the course of our life.",
+        "Cast your burden on the Lord. Enter His rest: when God is Father, our burdens become His, and our soul finds peace."
+      ],
+      "closing": "Praised be the Most Blessed, Most Holy Sacrament of the Altar, forever and ever. Amen."
+    }
+  ]
+}

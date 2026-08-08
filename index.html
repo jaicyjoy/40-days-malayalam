@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="40 Days Eucharistic Deliverance Prayer with Father Daniel — daily virtue, prayer, and task for the journey." />
+  <title>40 Days · Eucharistic Deliverance Prayer</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Source+Sans+3:wght@400;550;650;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <a class="skip-link" href="#days">Skip to days</a>
+
+  <header class="hero">
+    <div class="hero-inner">
+      <p class="brand" aria-label="40 Days">40 Days</p>
+      <h1>Eucharistic Deliverance Prayer</h1>
+      <p class="hero-lead">
+        A journey of adoration and reparation with Father Daniel — day by day, until the Lord renews us in the Holy Eucharist.
+      </p>
+      <div class="hero-actions">
+        <a class="btn btn-primary" href="#days">Begin today's prayer</a>
+        <a class="btn btn-ghost" href="#how">How to take part</a>
+      </div>
+    </div>
+    <div class="scroll-cue" aria-hidden="true">Scroll</div>
+  </header>
+
+  <main>
+    <section class="section" id="how" aria-labelledby="how-title">
+      <div class="section-head">
+        <p class="section-kicker">Each day of the journey</p>
+        <h2 id="how-title">How to take part</h2>
+        <p>
+          Keep these practices throughout the 40 days. Father Daniel asks that we also watch the introductory episode for the full way of participating.
+        </p>
+      </div>
+      <ul class="practices" id="practices-list"></ul>
+    </section>
+
+    <section class="section" id="days" aria-labelledby="days-title">
+      <div class="section-head">
+        <p class="section-kicker">Day by day</p>
+        <h2 id="days-title">All 40 days</h2>
+        <p>
+          Tap a day to see the theme, the virtue to practice, the evil to renounce, the prayer to say, and the task to do.
+        </p>
+      </div>
+
+      <div class="days-toolbar">
+        <p class="progress-note" id="progress-note"></p>
+      </div>
+
+      <div class="days-grid" id="days-grid" role="list"></div>
+
+      <article class="day-panel" id="day-panel" aria-live="polite">
+        <div class="day-panel-inner">
+          <header class="day-banner">
+            <p class="eyebrow" id="panel-eyebrow"></p>
+            <h3 id="panel-theme"></h3>
+            <p class="scripture" id="panel-scripture"></p>
+          </header>
+          <div class="day-body">
+            <div class="summary-block">
+              <p id="panel-summary"></p>
+            </div>
+            <p class="key-thought" id="panel-key"></p>
+
+            <div class="pillars">
+              <div class="pillar virtue">
+                <span class="tag">Good to practice</span>
+                <h4 id="panel-virtue-title"></h4>
+                <p id="panel-virtue-detail"></p>
+              </div>
+              <div class="pillar evil">
+                <span class="tag">Evil to renounce</span>
+                <h4 id="panel-evil-title"></h4>
+                <p id="panel-evil-detail"></p>
+              </div>
+            </div>
+
+            <div class="prayer-box">
+              <h4 id="panel-prayer-title">Today's Prayer</h4>
+              <p class="prayer-text" id="panel-prayer"></p>
+            </div>
+
+            <div class="task-box">
+              <h4 id="panel-task-title">Today's Task</h4>
+              <p id="panel-task"></p>
+            </div>
+
+            <div class="reflection-block">
+              <h4>For your heart</h4>
+              <ul class="reflection-list" id="panel-reflection"></ul>
+            </div>
+
+            <p class="closing-line" id="panel-closing"></p>
+
+            <div class="panel-actions">
+              <button type="button" class="btn btn-secondary" id="btn-prev-day">Previous day</button>
+              <button type="button" class="btn btn-secondary" id="btn-next-day">Next day</button>
+              <button type="button" class="btn btn-text" id="btn-close-panel">Close</button>
+            </div>
+          </div>
+        </div>
+      </article>
+    </section>
+
+    <section class="section" aria-labelledby="grow-title">
+      <div class="section-head">
+        <p class="section-kicker">Along the way</p>
+        <h2 id="grow-title">Keep your spirit nourished</h2>
+        <p>Simple helps for the whole household as you walk these days together.</p>
+      </div>
+      <div class="help-grid">
+        <div class="help-item">
+          <h3>Begin and end with the Cross</h3>
+          <p>In the name of the Father, and of the Son, and of the Holy Spirit. Offer the day to Jesus in the Eucharist before you start, and thank Him when you finish.</p>
+        </div>
+        <div class="help-item">
+          <h3>Pray as a family</h3>
+          <p>Read today's virtue, evil to avoid, prayer, and task aloud. Even a few quiet minutes together keep the journey alive across homes and countries.</p>
+        </div>
+        <div class="help-item">
+          <h3>Return to the Eucharist</h3>
+          <p>If desire for Mass or Adoration grows cold, ask again for thirst. These days are preparation for miracles the Lord works when we place our lives before Him.</p>
+        </div>
+      </div>
+      <blockquote class="verse">
+        <p>“Cast your burden on the Lord, and he will sustain you.”</p>
+        <cite>Psalm 55:22</cite>
+      </blockquote>
+    </section>
+  </main>
+
+  <footer>
+    <div class="wrap">
+      <p><strong>40 Days</strong> · Eucharistic Deliverance Prayer with Father Daniel</p>
+      <p>Praised, adored, and glorified be the Most Holy Sacrament of the Altar.</p>
+    </div>
+  </footer>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
