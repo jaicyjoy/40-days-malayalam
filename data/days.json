@@ -2,7 +2,7 @@
   "series": {
     "title": "40 Days",
     "subtitle": "Eucharistic Deliverance Prayer",
-    "priest": "Father Daniel",
+    "priest": "Fr Daniel Poovannathil",
     "endsOn": "8 September",
     "currentDay": 8,
     "totalDays": 40
@@ -114,6 +114,70 @@
       "closing": "Praised be the Most Blessed, Most Holy Sacrament of the Altar, forever and ever. Amen."
     },
     {
+      "day": 4,
+      "theme": "Cain, Abel & Sacrifice",
+      "scripture": "Genesis 4:1–5 · Genesis 3:21 · Proverbs 15:8",
+      "emoji": "🐑",
+      "color": "#ffe566",
+      "summary": "Biblical worship is sacrificial worship. Cain and Abel show that God looks first at the offerer, then at the offering. This 40-day journey must become a season of genuine repentance.",
+      "keyThought": "We must worship God in the way He has commanded—not according to our own preferences. God looks at the offerer before the offering.",
+      "virtue": {
+        "title": "True Repentance",
+        "detail": "Pray for real sorrow over sin and the grace of true repentance—not shallow regret, but a heart ready to turn back to God."
+      },
+      "evil": {
+        "title": "Self-justification",
+        "detail": "Renounce the habit of excusing every wrong, justifying yourself, and clinging to self-righteousness."
+      },
+      "prayer": {
+        "title": "Today's Prayer",
+        "text": "Jesus, Son of David, grant me an awareness of my sins.\n\nPray this repeatedly today."
+      },
+      "task": {
+        "title": "Today's Task",
+        "detail": "Take a notebook or diary and begin preparing for a complete confession. Write down every area where you already know you need repentance. After each day's service, add whatever God brings to mind."
+      },
+      "reflection": [
+        "Worship in the Bible is primarily the offering of sacrifice—not only songs and spontaneous prayer.",
+        "Adam and Eve's family knew how, where, and when to worship: sacrifice, place, and appointed time.",
+        "God accepted Abel and his offering; He did not accept Cain and his offering—because Cain's deeds were evil (1 John 3:12).",
+        "Ask forgiveness for times of receiving the Eucharist unworthily while clinging to sin. Seek an innocent heart like Abel's."
+      ],
+      "closing": "O Sacrament most holy, O Sacrament divine, all praise and all thanksgiving be every moment Thine."
+    },
+    {
+      "day": 5,
+      "theme": "Abraham Builds an Altar",
+      "scripture": "Genesis 12:1–8 · Jeremiah 29:11 · Ephesians 2:10",
+      "emoji": "⛺",
+      "color": "#7dffb3",
+      "summary": "When God promised Abraham the land, Abraham built an altar. There is a direct link between building altars—worship through sacrifice—and receiving God's promises for our lives.",
+      "keyThought": "The shortest path to every divine assignment God has prepared for you is this: build altars, offer sacrifice, worship God.",
+      "virtue": {
+        "title": "Generosity",
+        "detail": "Desire to help others and share what you can—the opposite of keeping everything for yourself."
+      },
+      "evil": {
+        "title": "Greed",
+        "detail": "Turn away from the attitude that says, “I want everything for myself.”"
+      },
+      "prayer": {
+        "title": "Today's Prayer",
+        "text": "Lord, make my heart as wide and spacious as Your Sacred Heart.\n\nRepeat this prayer and ask for a heart broad enough to embrace everyone."
+      },
+      "task": {
+        "title": "Today's Task",
+        "detail": "Before you go to bed, do at least one act of kindness for someone that goes beyond what you would normally do—an out-of-the-ordinary generous deed."
+      },
+      "reflection": [
+        "Wherever an altar is raised and sacrifice is offered to the true God, His dominion is established in that place.",
+        "Demonic altars already stood in Canaan; Abraham built an altar to Yahweh so God's presence would dwell there.",
+        "If the works of the Lord seem absent in your family: go to confession, then attend Holy Mass every day—repair the broken altar.",
+        "Renounce every claim the devil may have over your home through generations, and confess Jesus as the only Lord of your family."
+      ],
+      "closing": "O Sacrament most holy, O Sacrament divine, all praise and all thanksgiving be every moment Thine."
+    },
+    {
       "day": 6,
       "theme": "Melchizedek & Blessing",
       "scripture": "Genesis 14:17–20 · Joshua 24:2 · Joel 2:25",
@@ -142,6 +206,38 @@
         "Abraham's family line had lost the blessing through idolatry. Melchizedek restored it through bread and wine offered as a priest of God Most High.",
         "If ancestors caused tears, injustice, idolatry, or superstition, the way forward is to build altars and offer sacrifice—participate in Holy Mass every day.",
         "The first 10 days are for sanctification. Write key points in a notebook, do the tasks, and pray for your ancestors daily."
+      ],
+      "closing": "O Sacrament most holy, O Sacrament divine, all praise and all thanksgiving be every moment Thine."
+    },
+    {
+      "day": 7,
+      "theme": "Abraham Offers Isaac",
+      "scripture": "Genesis 22 · Lamentations 5:21 · John 1:29",
+      "emoji": "⛰️",
+      "color": "#9ecbff",
+      "summary": "Abraham's sacrifice of Isaac foreshadows the Cross and the Holy Eucharist. Isaac was spared; Jesus was not. Every Mass is the memorial of our Savior who died in our place.",
+      "keyThought": "The Holy Eucharist is a substitutionary sacrifice—Christ took the punishment that belonged to us. At every Mass we proclaim: He died in my place.",
+      "virtue": {
+        "title": "Diligence",
+        "detail": "Use your time for prayer and God's Word. Resist wasting hours on endless scrolling."
+      },
+      "evil": {
+        "title": "Sloth",
+        "detail": "Renounce laziness and time wasted on reels, shorts, social media, and constant scrolling. The Lord told us to pray—not to scroll."
+      },
+      "prayer": {
+        "title": "Today's Prayer — Lamentations 5:21",
+        "text": "Restore us to Yourself, O Lord, that we may be restored.\nRenew our days as of old."
+      },
+      "task": {
+        "title": "Today's Task",
+        "detail": "Decide to wake up 15 minutes earlier than usual tomorrow morning, and spend that time either reading the Bible or praying."
+      },
+      "reflection": [
+        "Abraham and the Father both offered the only son they loved; Mount Moriah and Calvary are parts of the same mountain; both sons carried wood and submitted willingly.",
+        "Abraham said God would provide the lamb—fulfilled not by the ram, but by Jesus, the Lamb of God.",
+        "Through Abraham's singular descendant—Jesus—all nations are blessed (Genesis 22:18).",
+        "Holy Mass is also an atoning sacrifice that gradually lifts the burden of our sins. Ask forgiveness whenever you offer Mass."
       ],
       "closing": "O Sacrament most holy, O Sacrament divine, all praise and all thanksgiving be every moment Thine."
     },

@@ -5,8 +5,6 @@
 
   const els = {
     practices: document.getElementById("practices-list"),
-    progress: document.getElementById("progress-note"),
-    readyBadge: document.getElementById("ready-badge"),
     grid: document.getElementById("days-grid"),
     panel: document.getElementById("day-panel"),
     hero: document.getElementById("panel-hero"),
@@ -96,10 +94,6 @@
 
       els.grid.appendChild(btn);
     }
-
-    const readyCount = availableDays.length;
-    els.progress.innerHTML = `<strong>${readyCount}</strong> of ${TOTAL_DAYS} days ready`;
-    els.readyBadge.textContent = `${readyCount} / ${TOTAL_DAYS} ready`;
   }
 
   function openDay(dayNumber) {
@@ -187,8 +181,7 @@
       }
     } catch (error) {
       console.error(error);
-      els.progress.textContent = "Unable to load the days right now. Please refresh the page.";
-      els.readyBadge.textContent = "Error";
+      showToast("Unable to load the days. Please refresh the page.");
     }
   }
 
