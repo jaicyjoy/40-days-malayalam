@@ -4,7 +4,7 @@
     "subtitle": "Eucharistic Deliverance Prayer",
     "priest": "Fr Daniel Poovannathil",
     "endsOn": "8 September",
-    "currentDay": 8,
+    "currentDay": 9,
     "totalDays": 40
   },
   "dailyPractices": [
@@ -99,11 +99,11 @@
       },
       "prayer": {
         "title": "Today's Prayer",
-        "text": "Lord, open all the doors of my soul to communicate with You.\nOpen the doors of spiritual communion so that my soul may remain united with You.\n\nOffer a full Rosary today, seeking Our Lady's intercession, that spiritual blindness may be removed and divine communion may be opened."
+        "text": "Lord, open all the doors of my soul to communicate with You.\nOpen the doors of spiritual communion so that my soul may remain united with You."
       },
       "task": {
         "title": "Today's Task",
-        "detail": "Recite a full Rosary for this intention. Keep today's thoughts in your heart: covenant, rest, and openness of the soul. No additional task is prescribed beyond the Rosary."
+        "detail": "Offer a full Rosary today, seeking Our Lady's intercession, that spiritual blindness may be removed and divine communion may be opened."
       },
       "reflection": [
         "Seven is the number of covenant. Sunday worship proclaims that God and we are family—God is our Father.",
@@ -270,6 +270,38 @@
         "An altar is the runway where God lands—the medium by which His presence and power enter human life (Exodus 20:24).",
         "Jacob at Bethel lay on a stone from Abraham's altar; the altar's power was still alive. Altars built to God—or to the devil—continue through generations.",
         "If ancestors built altars to the devil, tear them down by building an altar to the Lord: confess Jesus, worship, and attend Holy Mass faithfully."
+      ],
+      "closing": "O Sacrament most holy, O Sacrament divine, all praise and all thanksgiving be every moment Thine."
+    },
+    {
+      "day": 9,
+      "theme": "Joseph & Jesus",
+      "scripture": "Genesis 41:46–49 · Romans 8:19–23 · Ephesians 3:14–19",
+      "emoji": "🌾",
+      "color": "#ff9ad5",
+      "summary": "Joseph stored grain and saved his world; Jesus gives Himself as the Bread of Life and saves the world. Behind the Eucharist stands His lifelong sacrifice of love—and creation itself is offered and redeemed at the altar.",
+      "keyThought": "If we want to know how much Jesus loved us, look to the Cross. If we want to know how much Jesus loves us, look to the Holy Eucharist.",
+      "virtue": {
+        "title": "Temperance",
+        "detail": "Practice self-control in eating. Give food only the importance it deserves, and stand against a culture that lives only for food."
+      },
+      "evil": {
+        "title": "Gluttony",
+        "detail": "Renounce unhealthy attachment to food and excess in eating. From time to time, be willing to give up even your favorite foods."
+      },
+      "prayer": {
+        "title": "Today's Prayer",
+        "text": "Lord, help me to love Your grace more than food."
+      },
+      "task": {
+        "title": "Today's Task",
+        "detail": "Try to give up your favorite food today—even if it is on the table and available. Choose not to have it for the Lord’s sake as a spiritual exercise."
+      },
+      "reflection": [
+        "Joseph and Jesus share many parallels: beloved sons, hated from jealousy, sold for a slave’s price, stripped of garments, falsely accused, cast into a pit, with two criminals, ministry at age thirty, raised to glory, saviors who forgive.",
+        "Joseph saved with grain after a lifetime of tears; Jesus saves through His Body and Blood after offering His whole life.",
+        "In the Eucharist, bread and wine—fruit of the earth—symbolically offer all creation on the altar for cosmic redemption.",
+        "Care for creation is part of Eucharistic spirituality: plant and protect life around you; do not litter or harm the earth."
       ],
       "closing": "O Sacrament most holy, O Sacrament divine, all praise and all thanksgiving be every moment Thine."
     }

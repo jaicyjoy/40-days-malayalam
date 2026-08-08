@@ -410,8 +410,9 @@ button {
 }
 
 .quest-card.current {
-  outline: 4px solid var(--sun);
-  outline-offset: 2px;
+  outline: 4px solid #1e2a44;
+  outline-offset: 3px;
+  box-shadow: 0 0 0 3px #fff, 0 12px 28px rgba(30, 42, 68, 0.28);
 }
 
 .day-panel {
