@@ -1,7 +1,7 @@
 (() => {
   const TOTAL_DAYS = 40;
   const COLORS = ["#3ec6ff", "#ffe566", "#2bb673", "#ff7a59", "#ff5aad", "#8b6cff", "#7dffb3", "#ff9ad5"];
-  const LOCKED_EMOJIS = ["🌱", "✨", "🕯️", "📖", "🙏", "⭐", "🌻", "💧"];
+  const LOCKED_EMOJIS = ["✨", "🕯️", "📖", "🙏", "⭐", "🌻", "💧", "🕊️"];
 
   const els = {
     practices: document.getElementById("practices-list"),
