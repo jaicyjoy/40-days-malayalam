@@ -11,8 +11,8 @@
   --grape: #8b6cff;
   --shadow: 0 12px 30px rgba(30, 42, 68, 0.14);
   --radius: 22px;
-  --font-display: "Fredoka", system-ui, sans-serif;
-  --font-body: "Nunito", system-ui, sans-serif;
+  --font-display: "Fredoka", "Noto Sans Malayalam", system-ui, sans-serif;
+  --font-body: "Noto Sans Malayalam", "Nunito", system-ui, sans-serif;
   --ease: cubic-bezier(0.34, 1.4, 0.64, 1);
   --max: 980px;
 }

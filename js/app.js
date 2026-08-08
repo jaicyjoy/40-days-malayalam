@@ -70,25 +70,25 @@
       if (hasContent) {
         btn.classList.add("available");
         if (day === current) btn.classList.add("current");
-        btn.setAttribute("aria-label", `Open Day ${day}: ${data.theme}`);
+        btn.setAttribute("aria-label", `ദിവസം ${day} തുറക്കുക: ${data.theme}`);
         btn.innerHTML = `
           <span class="emoji" aria-hidden="true">${data.emoji || "✨"}</span>
-          <h3>Day ${day}</h3>
+          <h3>ദിവസം ${day}</h3>
           <p>${data.theme}</p>
-          <span class="lock-tag">Open</span>
+          <span class="lock-tag">തുറക്കുക</span>
         `;
         btn.addEventListener("click", () => openDay(day));
       } else {
         btn.classList.add("locked");
-        btn.setAttribute("aria-label", `Day ${day} coming soon`);
+        btn.setAttribute("aria-label", `ദിവസം ${day} ഉടൻ വരുന്നു`);
         btn.innerHTML = `
           <span class="emoji" aria-hidden="true">${LOCKED_EMOJIS[(day - 1) % LOCKED_EMOJIS.length]}</span>
-          <h3>Day ${day}</h3>
-          <p>Coming soon</p>
-          <span class="lock-tag">Soon</span>
+          <h3>ദിവസം ${day}</h3>
+          <p>ഉടൻ വരുന്നു</p>
+          <span class="lock-tag">ഉടൻ</span>
         `;
         btn.addEventListener("click", () => {
-          showToast(`Day ${day} will be added soon. Keep praying.`);
+          showToast(`ദിവസം ${day} ഉടൻ ചേർക്കും. പ്രാർത്ഥന തുടരുക.`);
         });
       }
 
@@ -101,7 +101,7 @@
     if (!day) return;
 
     selectedDay = dayNumber;
-    els.eyebrow.textContent = `Day ${day.day}`;
+    els.eyebrow.textContent = `ദിവസം ${day.day}`;
     els.theme.textContent = day.theme;
     els.scripture.textContent = day.scripture || "";
     els.summary.textContent = day.summary || "";
@@ -110,9 +110,9 @@
     els.virtueDetail.textContent = day.virtue.detail;
     els.evilTitle.textContent = day.evil.title;
     els.evilDetail.textContent = day.evil.detail;
-    els.prayerTitle.textContent = day.prayer.title || "Today's Prayer";
+    els.prayerTitle.textContent = day.prayer.title || "ഇന്നത്തെ പ്രാർത്ഥന";
     els.prayer.textContent = day.prayer.text;
-    els.taskTitle.textContent = day.task.title || "Today's Task";
+    els.taskTitle.textContent = day.task.title || "ഇന്നത്തെ ചുമതല";
     els.task.textContent = day.task.detail;
     els.closing.textContent = day.closing || "";
 
@@ -181,7 +181,7 @@
       }
     } catch (error) {
       console.error(error);
-      showToast("Unable to load the days. Please refresh the page.");
+      showToast("ദിവസങ്ങൾ ലഭ്യമാക്കാനായില്ല. ദയവായി പേജ് റിഫ്രഷ് ചെയ്യുക.");
     }
   }
 

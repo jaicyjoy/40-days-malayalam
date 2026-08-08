@@ -1,26 +1,26 @@
-# 40 Days · Eucharistic Deliverance Prayer
+# 40 ദിനങ്ങൾ · ദിവ്യകാരുണ്യ വിമോചന പ്രാർത്ഥന
 
-A simple website for Father Daniel’s 40-day Eucharistic Deliverance Prayer journey — so family near and far can follow each day’s virtue, prayer, and task together.
+ഫാ. ഡാനിയൽ പൂവന്നാത്തിലിന്റെ 40 ദിന ദിവ്യകാരുണ്യ വിമോചന പ്രാർത്ഥന യാത്രയ്ക്കുള്ള ഒരു ലളിതമായ വെബ്‌സൈട്ട് — അടുത്തും അകലെയുമുള്ള കുടുംബാംഗങ്ങൾക്ക് ഓരോ ദിവസത്തെയും സദ്ഗുണം, പ്രാർത്ഥന, ചുമതല എന്നിവ ഒരുമിച്ച് പിന്തുടരാൻ.
 
-## Open the site
+## സൈട്ട് തുറക്കുക
 
-Once GitHub Pages is live:
+GitHub Pages ലൈവ് ആയാൽ:
 
-**https://jaicyjoy.github.io/40-days/**
+**https://jaicyjoy.github.io/40-days-malayalam/**
 
-## Add a new day
+## പുതിയ ദിവസം ചേർക്കുക
 
-1. Open `data/days.json`
-2. Add a new object under `days` (copy Day 1’s shape)
-3. Update `"currentDay"` to the latest day number
-4. Commit and push — the website updates automatically
+1. `data/days.json` തുറക്കുക
+2. `days`-ന് കീഴിൽ പുതിയ ഒബ്ജക്റ്ട് ചേർക്കുക (ദിവസം 1-ന്റെ ഘടന പകർത്തുക)
+3. `"currentDay"` ഏറ്റവും പുതിയ ദിവസ നമ്പറിലേക്ക് അപ്‌ഡേറ്റ് ചെയ്യുക
+4. Commit ചെയ്ത് push ചെയ്യുക — വെബ്‌സൈട്ട് സ്വയം അപ്‌ഡേറ്റ് ആകും
 
-## Local preview
+## ലോക്കൽ പ്രിവ്യൂ
 
-Open `index.html` in a browser, or from this folder run:
+`index.html` ബ്രൗസറിൽ തുറക്കുക, അല്ലെങ്കിൽ ഈ ഫോൾഡറിൽ നിന്നും:
 
 ```bash
 python3 -m http.server 8080
 ```
 
-Then visit `http://localhost:8080`
+ശേഷം `http://localhost:8080` സന്ദർശിക്കുക

@@ -1,309 +1,309 @@
 {
   "series": {
-    "title": "40 Days",
-    "subtitle": "Eucharistic Deliverance Prayer",
-    "priest": "Fr Daniel Poovannathil",
-    "endsOn": "8 September",
+    "title": "40 ദിനങ്ങൾ",
+    "subtitle": "ദിവ്യകാരുണ്യ വിമോചന പ്രാർത്ഥന",
+    "priest": "ഫാ. ഡാനിയൽ പൂവന്നാത്തിൽ",
+    "endsOn": "8 സെപ്റ്ടംബർ",
     "currentDay": 9,
     "totalDays": 40
   },
   "dailyPractices": [
-    "Attend Holy Mass every day, if possible",
-    "Spend time in Eucharistic Adoration",
-    "Pray for your ancestors every day",
-    "Observe a fast if you are able",
-    "Watch the introductory episode for the full way of participating",
-    "Before sleep: ask the Lord to help you not miss tomorrow’s prayer",
-    "Write important points in a notebook and complete each day’s task"
+    "കഴിയുന്നതെല്ലാം ഓരോ ദിവസവും വിശുദ്ധ കുർബാനയിൽ പങ്കെടുക്കുക",
+    "ദിവ്യകാരുണ്യ ആരാധനയിൽ സമയം ചെലവഴിക്കുക",
+    "ഓരോ ദിവസവും നിങ്ങളുടെ പിതാക്കന്മാർക്ക് വേണ്ടി പ്രാർത്ഥിക്കുക",
+    "കഴിവുണ്ടെങ്കിൽ ഉപവാസം പാലിക്കുക",
+    "പൂർണ്ണമായി പങ്കെടുക്കുന്നതിനുള്ള മാർഗ്ഗം അറിയാൻ ആമുഖ എപ്പിസോഡ് കാണുക",
+    "ഉറങ്ങുന്നതിന് മുമ്പ്: നാളത്തെ പ്രാർത്ഥന നഷ്ടപ്പെടാതിരിക്കാൻ കർത്താവിനോട് സഹായം യാചിക്കുക",
+    "പ്രധാന കാര്യങ്ങൾ ഒരു നോട്ട്ബുക്കിൽ എഴുതുകയും ഓരോ ദിവസത്തെയും ചുമതല പൂർത്തിയാക്കുകയും ചെയ്യുക"
   ],
   "days": [
     {
       "day": 1,
-      "theme": "The Cosmic Temple",
-      "scripture": "Genesis 1 — Creation as God's temple",
+      "theme": "പ്രപഞ്ച ക്ഷേത്രം",
+      "scripture": "ഉല്പത്തി 1 — ദൈവത്തിന്റെ ക്ഷേത്രമായി സൃഷ്ടി",
       "emoji": "🌌",
       "color": "#3ec6ff",
-      "summary": "God created the universe like a temple and rests within it. We were created for one purpose: to worship Him. Our true identity is that of a worshipper.",
-      "keyThought": "God created me for no other reason than to worship Him. The universe is a cosmic temple, and the invitation of the seventh day is a call to worship.",
+      "summary": "ദൈവം പ്രപഞ്ചത്തെ ഒരു ക്ഷേത്രം പോലെ സൃഷ്ടിച്ച് അതിനുള്ളിൽ വിശ്രമിക്കുന്നു. നാം ഒരു ലക്ഷ്യത്തിനായി സൃഷ്ടിക്കപ്പെട്ടു: അവനെ ആരാധിക്കാൻ. നമ്മുടെ യഥാർത്ഥ ഐഡന്റിറ്ട്ടി ആരാധകന്റേതാണ്.",
+      "keyThought": "ദൈവം എന്നെ ആരാധിക്കാൻ മാത്രമേ സൃഷ്ടിച്ചുള്ളൂ. പ്രപഞ്ചം ഒരു വിശ്വപ്രപഞ്ച ക്ഷേത്രമാണ്; ഏഴാം ദിനത്തിന്റെ ക്ഷണം ആരാധനയിലേക്കുള്ള വിളിയാണ്.",
       "virtue": {
-        "title": "Trust",
-        "detail": "Depend on God. Believe in Him blindly. Practice relying on the Lord rather than on your own strength."
+        "title": "വിശ്വാസം",
+        "detail": "ദൈവത്തെ ആശ്രയിക്കുക. അവനിൽ അന്ധമായി വിശ്വസിക്കുക. സ്വന്തം ശക്തിയിലല്ല, കർത്താവിലാണ് ആശ്രയിക്കുന്നത് പരിശീലിക്കുക."
       },
       "evil": {
-        "title": "Self-reliance",
-        "detail": "Renounce relying solely upon yourself—thinking you can manage life without God's help."
+        "title": "സ്വന്തം ശക്തിയിലുള്ള ആശ്രയം",
+        "detail": "ദൈവത്തിന്റെ സഹായമില്ലാതെ ജീവിതം നിയന്ത്രിക്കാമെന്ന് കരുതുന്ന സ്വയം ആശ്രയം ഉപേക്ഷിക്കുക."
       },
       "prayer": {
-        "title": "Today's Prayer",
-        "text": "Jesus, I trust in You.\nLord, I depend on You completely. I surrender to You totally."
+        "title": "ഇന്നത്തെ പ്രാർത്ഥന",
+        "text": "യേശു, ഞാൻ അങ്ങയിൽ വിശ്വസിക്കുന്നു.\nകർത്താവേ, ഞാൻ അങ്ങയെ പൂർണ്ണമായി ആശ്രയിക്കുന്നു. ഞാൻ അങ്ങയ്ക്ക് പൂർണ്ണമായി സമർപ്പിക്കുന്നു."
       },
       "task": {
-        "title": "Today's Task",
-        "detail": "Choose five ordinary everyday things you usually do without asking God's help (eating, walking, driving, washing clothes, preparing food, going to the office, etc.). Consciously ask for God's help in each of those five things today."
+        "title": "ഇന്നത്തെ ചുമതല",
+        "detail": "സാധാരണയായി ദൈവത്തിന്റെ സഹായം ചോദിക്കാതെ ചെയ്യുന്ന അഞ്ച് ദൈനംദിന കാര്യങ്ങൾ തിരഞ്ഞെടുക്കുക (ഭക്ഷണം കഴിക്കുക, നടക്കുക, വാഹനമോടിക്കുക, വസ്ത്രം കഴുകുക, ഭക്ഷണം തയ്യാറാക്കുക, ഓഫീസിലേക്ക് പോകുക തുടങ്ങിയവ). ഇന്ന് ആ അഞ്ച് കാര്യങ്ങളിലും ബോധപൂർവ്വം ദൈവത്തിന്റെ സഹായം ചോദിക്കുക."
       },
       "reflection": [
-        "The Bible presents creation like the building of a temple: form is given, then the temple is filled, and God rests enthroned within it.",
-        "The seventh day of rest has not ended—anyone may enter God's rest through worship and adoration.",
-        "Adoration becomes reparation: in this 40-day journey we offer reparation for every place where the Holy Eucharist has been profaned.",
-        "Like St. Padre Pio, find your joy not in recognition or worldly things, but in worship. A life of praise is a life without complaints."
+        "ബൈബിൾ സൃഷ്ടിയെ ഒരു ക്ഷേത്രനിർമ്മാണം പോലെ അവതരിപ്പിക്കുന്നു: രൂപം നൽകപ്പെടുന്നു, പിന്നീട് ക്ഷേത്രം നിറയ്ക്കപ്പെടുന്നു, ദൈവം അതിനുള്ളിൽ സിംഹാസനസ്ഥനായി വിശ്രമിക്കുന്നു.",
+        "വിശ്രമത്തിന്റെ ഏഴാം ദിനം അവസാനിച്ചിട്ടില്ല—ആരാധനയിലൂടെയും ഉപാസനയിലൂടെയും ആർക്കും ദൈവത്തിന്റെ വിശ്രമത്തിലേക്ക് പ്രവേശിക്കാം.",
+        "ആരാധന പ്രായശ്ചിത്തമാകുന്നു: ഈ 40 ദിന യാത്രയിൽ ദിവ്യകാരുണ്യം അവഹേളിക്കപ്പെട്ട ഓരോ സ്ഥലത്തിനും വേണ്ടി നാം പ്രായശ്ചിത്തം അർപ്പിക്കുന്നു.",
+        "വിശുദ്ധ പാദ്രെ പിയോയെപ്പോലെ, അംഗീകാരത്തിലോ ലൗകിക കാര്യങ്ങളിലോ അല്ല, ആരാധനയിലാണ് നിങ്ങളുടെ സന്തോഷം കണ്ടെത്തുക. സ്തുതിയുടെ ജീവിതം പരാതികളില്ലാത്ത ജീവിതമാണ്."
       ],
-      "closing": "May eternal praise, adoration, and glory be given to the Most Holy and Blessed Sacrament of the Altar!"
+      "closing": "ബലിപീഠത്തിലെ അത്യന്തം വിശുദ്ധവും അനുഗ്രഹീതവുമായ ദിവ്യകാരുണ്യത്തിന് നിത്യസ്തുതിയും ആരാധനയും മഹത്വവും ഉണ്ടാകട്ടെ!"
     },
     {
       "day": 2,
-      "theme": "The Tree of Life",
-      "scripture": "Genesis 2:9; 3:22–24",
+      "theme": "ജീവന്റെ വൃക്ഷം",
+      "scripture": "ഉല്പത്തി 2:9; 3:22–24",
       "emoji": "🌳",
       "color": "#2bb673",
-      "summary": "The Holy Eucharist is the fruit of the Tree of Life. Through the Cross—the new Tree of Life—Jesus gives us eternal life. Worship restores the experience of Eden.",
-      "keyThought": "Every time we approach the Holy Eucharist, we are securing eternal life. The Eucharist is the Medicine of Immortality.",
+      "summary": "ദിവ്യകാരുണ്യം ജീവന്റെ വൃക്ഷത്തിന്റെ ഫലമാണ്. പുതിയ ജീവന്റെ വൃക്ഷമായ കുരിശിലൂടെ യേശു നമുക്ക് നിത്യജീവൻ നൽകുന്നു. ആരാധന ഏദേൻ അനുഭവം പുനഃസ്ഥാപിക്കുന്നു.",
+      "keyThought": "ഓരോ തവണയും നാം ദിവ്യകാരുണ്യത്തിനടുത്ത് ചെല്ലുമ്പോൾ, നിത്യജീവൻ ഉറപ്പാക്കുകയാണ്. ദിവ്യകാരുണ്യം അമർത്യതയുടെ ഔഷധമാണ്.",
       "virtue": {
-        "title": "Purity",
-        "detail": "Pray especially for sexual purity—purity of body, thoughts, memories, imaginations, dreams, sight, and hearing."
+        "title": "ശുദ്ധി",
+        "detail": "ശാരീരിക ശുദ്ധിക്കായി പ്രത്യേകം പ്രാർത്ഥിക്കുക—ശരീരം, ചിന്തകൾ, ഓർമ്മകൾ, ഭാവനകൾ, സ്വപ്നങ്ങൾ, കാഴ്ച, ശ്രവണം എന്നിവയുടെ ശുദ്ധിക്കായി."
       },
       "evil": {
-        "title": "Lust",
-        "detail": "Renounce lustful desires, cravings, and passions. Ask the Lord that these desires leave you."
+        "title": "കാമം",
+        "detail": "കാമവാസനകളും ആഗ്രഹങ്ങളും അഭിനിവേശങ്ങളും ഉപേക്ഷിക്കുക. ഈ ആഗ്രഹങ്ങൾ നിങ്ങളെ വിട്ടുപോകാൻ കർത്താവിനോട് യാചിക്കുക."
       },
       "prayer": {
-        "title": "Today's Prayer",
-        "text": "Lord, protect my eyes from all evil sights, and protect my heart from all evil desires."
+        "title": "ഇന്നത്തെ പ്രാർത്ഥന",
+        "text": "കർത്താവേ, എന്റെ കണ്ണുകളെ എല്ലാ ദുഷ്ട കാഴ്ചകളിൽ നിന്നും സംരക്ഷിക്കുക; എന്റെ ഹൃദയത്തെ എല്ലാ ദുഷ്ട ആഗ്രഹങ്ങളിൽ നിന്നും സംരക്ഷിക്കുക."
       },
       "task": {
-        "title": "Today's Task — Seeing vs Looking",
-        "detail": "Practice self-control with your eyes. You may see something, but do not look again when a desire arises to gaze a second time. When the urge comes to look once more, withdraw your eyes. Train this gently throughout the day."
+        "title": "ഇന്നത്തെ ചുമതല — കാണുക vs നോക്കുക",
+        "detail": "നിങ്ങളുടെ കണ്ണുകളിൽ ആത്മനിയന്ത്രണം പരിശീലിക്കുക. എന്തെങ്കിലും കാണാം, എന്നാൽ രണ്ടാമതും ഉറ്റുനോക്കാൻ ആഗ്രഹം ഉണ്ടാകുമ്പോൾ വീണ്ടും നോക്കരുത്. വീണ്ടും നോക്കാനുള്ള പ്രേരണ വരുമ്പോൾ കണ്ണുകൾ പിൻവലിക്കുക. ദിവസം മുഴുവൻ ഇത് സൗമ്യമായി പരിശീലിക്കുക."
       },
       "reflection": [
-        "God blocked the Tree of Life after the Fall so that humanity would not become immortal in a state of sin. He walked out of Eden with Adam and Eve—He did not abandon them.",
-        "In the eyes of the Church Fathers, the Holy Eucharist is the fruit of the Tree of Life. St. Ignatius of Antioch called it the Medicine of Immortality.",
-        "Death entered through a fruit; life also enters through a fruit—the Holy Eucharist, fruit of the Cross.",
-        "Worship is returning to the Garden of Eden. Find your joy in sitting close to the Lord—earthly gifts can be taken back, but joy from God cannot be stolen."
+        "പതനത്തിനുശേഷം ദൈവം ജീവന്റെ വൃക്ഷം തടഞ്ഞു—മനുഷ്യൻ പാപാവസ്ഥയിൽ അമർത്യനാകാതിരിക്കാൻ. അവൻ ആദാമിനോടും ഹവ്വയോടും കൂടെ ഏദേനിൽ നിന്ന് പുറത്തുപോയി—അവരെ ഉപേക്ഷിച്ചില്ല.",
+        "സഭാപിതാക്കന്മാരുടെ കാഴ്ചയിൽ, ദിവ്യകാരുണ്യം ജീവന്റെ വൃക്ഷത്തിന്റെ ഫലമാണ്. അന്ത്യോക്യായിലെ വിശുദ്ധ ഇഗ്നേഷ്യസ് അതിനെ അമർത്യതയുടെ ഔഷധം എന്ന് വിളിച്ചു.",
+        "മരണം ഒരു ഫലത്തിലൂടെ പ്രവേശിച്ചു; ജീവനും ഒരു ഫലത്തിലൂടെ പ്രവേശിക്കുന്നു—കുരിശിന്റെ ഫലമായ ദിവ്യകാരുണ്യം.",
+        "ആരാധന ഏദേൻ തോട്ടത്തിലേക്ക് മടങ്ങുകയാണ്. കർത്താവിനോട് അടുത്തിരിക്കുന്നതിൽ സന്തോഷം കണ്ടെത്തുക—ഭൗമിക ദാനങ്ങൾ തിരിച്ചെടുക്കാം, എന്നാൽ ദൈവത്തിൽ നിന്നുള്ള സന്തോഷം മോഷ്ടിക്കാനാവില്ല."
       ],
-      "closing": "Praised, adored, and glorified be the Holy, Most Blessed Sacrament of the Altar."
+      "closing": "ബലിപീഠത്തിലെ വിശുദ്ധവും അത്യന്തം അനുഗ്രഹീതവുമായ ദിവ്യകാരുണ്യത്തിന് സ്തുതിയും ആരാധനയും മഹത്വവും ഉണ്ടാകട്ടെ."
     },
     {
       "day": 3,
-      "theme": "The Seventh Day",
-      "scripture": "Genesis 2:1–3",
+      "theme": "ഏഴാം ദിനം",
+      "scripture": "ഉല്പത്തി 2:1–3",
       "emoji": "🕊️",
       "color": "#8b6cff",
-      "summary": "The first thing God sanctified was not a place or a person, but a time—the seventh day. Sunday and every Eucharist call us into covenant family with God and into His rest.",
-      "keyThought": "Every celebration of the Holy Eucharist is that precious seventh day—time to cast our burdens on the Lord, remember we are God's children, and enter His rest.",
+      "summary": "ദൈവം ആദ്യം വിശുദ്ധീകരിച്ചത് ഒരു സ്ഥലമോ വ്യക്തിയോ അല്ല, ഒരു സമയമാണ്—ഏഴാം ദിനം. ഞായറാഴ്ചയും ഓരോ ദിവ്യകാരുണ്യവും നമ്മെ ദൈവവുമായുള്ള ഉടമ്പടി കുടുംബത്തിലേക്കും അവന്റെ വിശ്രമത്തിലേക്കും വിളിക്കുന്നു.",
+      "keyThought": "വിശുദ്ധ കുർബാനയുടെ ഓരോ ആഘോഷവും ആ വിലയേറിയ ഏഴാം ദിനമാണ്—നമ്മുടെ ഭാരങ്ങൾ കർത്താവിന്മേൽ വയ്ക്കാനും നാം ദൈവമക്കളാണെന്ന് ഓർക്കാനും അവന്റെ വിശ്രമത്തിലേക്ക് പ്രവേശിക്കാനുമുള്ള സമയം.",
       "virtue": {
-        "title": "Openness of the Soul",
-        "detail": "Desire that the doors of your soul be opened for communion with God—so that your soul can remain connected with Him, not distracted after two minutes of prayer."
+        "title": "ആത്മാവിന്റെ തുറവ്",
+        "detail": "ദൈവവുമായുള്ള കൂട്ടായ്മയ്ക്കായി നിങ്ങളുടെ ആത്മാവിന്റെ വാതിലുകൾ തുറക്കപ്പെടണമെന്ന് ആഗ്രഹിക്കുക—രണ്ട് മിനിറ്ട് പ്രാർത്ഥനയ്ക്കുശേഷം ശ്രദ്ധ തെറ്റാതെ ആത്മാവ് അവനുമായി ബന്ധപ്പെട്ടിരിക്കാൻ."
       },
       "evil": {
-        "title": "Spiritual Blindness",
-        "detail": "Turn away from spiritual blindness and deafness—the closed faculties of the soul, the inability to hear God's voice, and lack of openness to prayer. (cf. 2 Corinthians 4:4)"
+        "title": "ആത്മീയ അന്ധത",
+        "detail": "ആത്മീയ അന്ധതയിൽ നിന്നും ബധിരതയിൽ നിന്നും തിരിഞ്ഞൊഴിയുക—ആത്മാവിന്റെ അടഞ്ഞ ശേഷികൾ, ദൈവശബ്ദം കേൾക്കാനാകായ്ക, പ്രാർത്ഥനയോടുള്ള തുറവില്ലായ്മ. (cf. 2 കോറിന്ത്യർ 4:4)"
       },
       "prayer": {
-        "title": "Today's Prayer",
-        "text": "Lord, open all the doors of my soul to communicate with You.\nOpen the doors of spiritual communion so that my soul may remain united with You."
+        "title": "ഇന്നത്തെ പ്രാർത്ഥന",
+        "text": "കർത്താവേ, അങ്ങയുമായി സംവദിക്കാൻ എന്റെ ആത്മാവിന്റെ എല്ലാ വാതിലുകളും തുറക്കുക.\nഎന്റെ ആത്മാവ് അങ്ങയുമായി ഏകീഭവിച്ചിരിക്കാൻ ആത്മീയ കൂട്ടായ്മയുടെ വാതിലുകൾ തുറക്കുക."
       },
       "task": {
-        "title": "Today's Task",
-        "detail": "Offer a full Rosary today, seeking Our Lady's intercession, that spiritual blindness may be removed and divine communion may be opened."
+        "title": "ഇന്നത്തെ ചുമതല",
+        "detail": "ആത്മീയ അന്ധത നീക്കപ്പെടാനും ദൈവീയ കൂട്ടായ്മ തുറക്കപ്പെടാനും നമ്മുടെ അമ്മയുടെ മധ്യസ്ഥത തേടി ഇന്ന് ഒരു പൂർണ്ണ ജപമാല അർപ്പിക്കുക."
       },
       "reflection": [
-        "Seven is the number of covenant. Sunday worship proclaims that God and we are family—God is our Father.",
-        "Man was created on the sixth day, but called into the seventh. Six without seven is self-reliance and the spirit of the antichrist; seven is divine relationship and worship.",
-        "God blessed and made holy the seventh day—time spent united with God has special power to change the course of our life.",
-        "Cast your burden on the Lord. Enter His rest: when God is Father, our burdens become His, and our soul finds peace."
+        "ഏഴ് ഉടമ്പടിയുടെ സംഖ്യയാണ്. ഞായറാഴ്ച ആരാധന ദൈവവും നാമും കുടുംബമാണെന്ന് പ്രഖ്യാപിക്കുന്നു—ദൈവം നമ്മുടെ പിതാവാണ്.",
+        "മനുഷ്യൻ ആറാം ദിനത്തിൽ സൃഷ്ടിക്കപ്പെട്ടു, എന്നാൽ ഏഴാം ദിനത്തിലേക്ക് വിളിക്കപ്പെട്ടു. ഏഴില്ലാത്ത ആറ് സ്വയം ആശ്രയവും അന്തിക്രിസ്തുവിന്റെ ആത്മാവുമാണ്; ഏഴ് ദൈവീയ ബന്ധവും ആരാധനയുമാണ്.",
+        "ദൈവം ഏഴാം ദിനത്തെ അനുഗ്രഹിച്ച് വിശുദ്ധീകരിച്ചു—ദൈവവുമായി ഏകീഭവിച്ച് ചെലവഴിക്കുന്ന സമയത്തിന് നമ്മുടെ ജീവിതഗതി മാറ്റാൻ പ്രത്യേക ശക്തിയുണ്ട്.",
+        "നിന്റെ ഭാരം കർത്താവിന്മേൽ വച്ചുകൊൾക. അവന്റെ വിശ്രമത്തിലേക്ക് പ്രവേശിക്കുക: ദൈവം പിതാവാകുമ്പോൾ നമ്മുടെ ഭാരങ്ങൾ അവന്റേതാകുന്നു, ആത്മാവിന് സമാധാനം ലഭിക്കുന്നു."
       ],
-      "closing": "Praised be the Most Blessed, Most Holy Sacrament of the Altar, forever and ever. Amen."
+      "closing": "ബലിപീഠത്തിലെ അത്യന്തം അനുഗ്രഹീതവും അത്യന്തം വിശുദ്ധവുമായ ദിവ്യകാരുണ്യത്തിന് എന്നെന്നേക്കും സ്തുതി. ആമേൻ."
     },
     {
       "day": 4,
-      "theme": "Cain, Abel & Sacrifice",
-      "scripture": "Genesis 4:1–5 · Genesis 3:21 · Proverbs 15:8",
+      "theme": "കായിൻ, ആബേൽ & ബലി",
+      "scripture": "ഉല്പത്തി 4:1–5 · ഉല്പത്തി 3:21 · സദൃശവാക്യങ്ങൾ 15:8",
       "emoji": "🐑",
       "color": "#ffe566",
-      "summary": "Biblical worship is sacrificial worship. Cain and Abel show that God looks first at the offerer, then at the offering. This 40-day journey must become a season of genuine repentance.",
-      "keyThought": "We must worship God in the way He has commanded—not according to our own preferences. God looks at the offerer before the offering.",
+      "summary": "ബൈബിൾ ആരാധന ബലിയുടെ ആരാധനയാണ്. കായിനും ആബേലും കാണിക്കുന്നത് ദൈവം ആദ്യം അർപ്പിക്കുന്നവനെ നോക്കുന്നു, പിന്നീട് അർപ്പണത്തെയെയും എന്നാണ്. ഈ 40 ദിന യാത്ര യഥാർത്ഥ അനുതാപത്തിന്റെ കാലമായി മാറണം.",
+      "keyThought": "ദൈവം കൽപ്പിച്ച വിധത്തിൽ അവനെ ആരാധിക്കണം—നമ്മുടെ ഇഷ്ടാനുസരണമല്ല. ദൈവം അർപ്പണത്തിന് മുമ്പ് അർപ്പിക്കുന്നവനെ നോക്കുന്നു.",
       "virtue": {
-        "title": "True Repentance",
-        "detail": "Pray for real sorrow over sin and the grace of true repentance—not shallow regret, but a heart ready to turn back to God."
+        "title": "യഥാർത്ഥ അനുതാപം",
+        "detail": "പാപത്തെക്കുറിച്ചുള്ള യഥാർത്ഥ ദുഃഖത്തിനും യഥാർത്ഥ അനുതാപത്തിന്റെ കൃപയ്ക്കും വേണ്ടി പ്രാർത്ഥിക്കുക—ഉപരിപ്ലവമായ ഖേദമല്ല, ദൈവത്തിലേക്ക് തിരിയാൻ തയ്യാറായ ഹൃദയം."
       },
       "evil": {
-        "title": "Self-justification",
-        "detail": "Renounce the habit of excusing every wrong, justifying yourself, and clinging to self-righteousness."
+        "title": "സ്വയം ന്യായീകരണം",
+        "detail": "ഓരോ തെറ്റിനും ന്യായം പറയുകയും സ്വയം ന്യായീകരിക്കുകയും സ്വയം നീതിയിൽ പിടിച്ചുനിൽക്കുകയും ചെയ്യുന്ന ശീലം ഉപേക്ഷിക്കുക."
       },
       "prayer": {
-        "title": "Today's Prayer",
-        "text": "Jesus, Son of David, grant me an awareness of my sins.\n\nPray this repeatedly today."
+        "title": "ഇന്നത്തെ പ്രാർത്ഥന",
+        "text": "യേശുവേ, ദാവീദിന്റെ പുത്രാ, എന്റെ പാപങ്ങളെക്കുറിച്ചുള്ള ബോധം എനിക്ക് നൽകുക.\n\nഇന്ന് ഇത് ആവർത്തിച്ച് പ്രാർത്ഥിക്കുക."
       },
       "task": {
-        "title": "Today's Task",
-        "detail": "Take a notebook or diary and begin preparing for a complete confession. Write down every area where you already know you need repentance. After each day's service, add whatever God brings to mind."
+        "title": "ഇന്നത്തെ ചുമതല",
+        "detail": "ഒരു നോട്ട്ബുക്കോ ഡയറിയോ എടുത്ത് പൂർണ്ണ കുമ്പസാരത്തിന് തയ്യാറെടുക്കാൻ തുടങ്ങുക. അനുതാപം വേണമെന്ന് നിങ്ങൾക്ക് ഇതിനകം അറിയാവുന്ന ഓരോ മേഖലയും എഴുതുക. ഓരോ ദിവസത്തെയും സേവനത്തിനുശേഷം ദൈവം ഓർമ്മിപ്പിക്കുന്നതെല്ലാം ചേർക്കുക."
       },
       "reflection": [
-        "Worship in the Bible is primarily the offering of sacrifice—not only songs and spontaneous prayer.",
-        "Adam and Eve's family knew how, where, and when to worship: sacrifice, place, and appointed time.",
-        "God accepted Abel and his offering; He did not accept Cain and his offering—because Cain's deeds were evil (1 John 3:12).",
-        "Ask forgiveness for times of receiving the Eucharist unworthily while clinging to sin. Seek an innocent heart like Abel's."
+        "ബൈബിളിലെ ആരാധന പ്രധാനമായും ബലിയുടെ അർപ്പണമാണ്—ഗാനങ്ങളും സ്വതന്ത്ര പ്രാർത്ഥനയും മാത്രമല്ല.",
+        "ആദാമിന്റെയും ഹവ്വയുടെയും കുടുംബത്തിന് എങ്ങനെ, എവിടെ, എപ്പോൾ ആരാധിക്കണമെന്ന് അറിയാമായിരുന്നു: ബലി, സ്ഥലം, നിശ്ചിത സമയം.",
+        "ദൈവം ആബേലിനെയും അവന്റെ അർപ്പണത്തെയും സ്വീകരിച്ചു; കായിനെയും അവന്റെ അർപ്പണത്തെയും സ്വീകരിച്ചില്ല—കാരണം കായിന്റെ പ്രവൃത്തികൾ ദുഷ്ടമായിരുന്നു (1 യോഹന്നാൻ 3:12).",
+        "പാപത്തിൽ പിടിച്ചുനിൽക്കുമ്പോൾ അയോഗ്യമായി ദിവ്യകാരുണ്യം സ്വീകരിച്ച സന്ദർഭങ്ങൾക്ക് ക്ഷമ യാചിക്കുക. ആബേലിനെപ്പോലെ നിർമ്മലഹൃദയം തേടുക."
       ],
-      "closing": "O Sacrament most holy, O Sacrament divine, all praise and all thanksgiving be every moment Thine."
+      "closing": "അത്യന്തം വിശുദ്ധമായ കുർബാനേ, ദിവ്യകാരുണ്യമേ, ഓരോ നിമിഷവും അങ്ങേക്ക് എല്ലാ സ്തുതിയും നന്ദിയും ഉണ്ടാകട്ടെ."
     },
     {
       "day": 5,
-      "theme": "Abraham Builds an Altar",
-      "scripture": "Genesis 12:1–8 · Jeremiah 29:11 · Ephesians 2:10",
+      "theme": "അബ്രഹാം ബലിപീഠം പണിയുന്നു",
+      "scripture": "ഉല്പത്തി 12:1–8 · യിരമ്യാവ് 29:11 · എഫേസോസ് 2:10",
       "emoji": "⛺",
       "color": "#7dffb3",
-      "summary": "When God promised Abraham the land, Abraham built an altar. There is a direct link between building altars—worship through sacrifice—and receiving God's promises for our lives.",
-      "keyThought": "The shortest path to every divine assignment God has prepared for you is this: build altars, offer sacrifice, worship God.",
+      "summary": "ദൈവം അബ്രഹാമിന് ദേശം വാഗ്ദാനം ചെയ്തപ്പോൾ അബ്രഹാം ഒരു ബലിപീഠം പണിതു. ബലിപീഠങ്ങൾ പണിയുക—ബലിയിലൂടെയുള്ള ആരാധന—നമ്മുടെ ജീവിതത്തിനുള്ള ദൈവവാഗ്ദാനങ്ങൾ ലഭിക്കുന്നതും തമ്മിൽ നേരിട്ടുള്ള ബന്ധമുണ്ട്.",
+      "keyThought": "ദൈവം നിങ്ങൾക്കായി ഒരുക്കിയിരിക്കുന്ന ഓരോ ദൈവീയ ദൗത്യത്തിലേക്കുമുള്ള ഏറ്റവും ചുരുങ്ങിയ വഴി ഇതാണ്: ബലിപീഠങ്ങൾ പണിയുക, ബലി അർപ്പിക്കുക, ദൈവത്തെ ആരാധിക്കുക.",
       "virtue": {
-        "title": "Generosity",
-        "detail": "Desire to help others and share what you can—the opposite of keeping everything for yourself."
+        "title": "ഉദാരത",
+        "detail": "മറ്റുള്ളവരെ സഹായിക്കാനും കഴിയുന്നത് പങ്കുവയ്ക്കാനും ആഗ്രഹിക്കുക—എല്ലാം സ്വയം സൂക്ഷിക്കുന്നതിന്റെ വിപരീതം."
       },
       "evil": {
-        "title": "Greed",
-        "detail": "Turn away from the attitude that says, “I want everything for myself.”"
+        "title": "അത്യാഗ്രഹം",
+        "detail": "«എനിക്ക് എല്ലാം വേണം» എന്ന മനോഭാവത്തിൽ നിന്നും തിരിഞ്ഞൊഴിയുക."
       },
       "prayer": {
-        "title": "Today's Prayer",
-        "text": "Lord, make my heart as wide and spacious as Your Sacred Heart.\n\nRepeat this prayer and ask for a heart broad enough to embrace everyone."
+        "title": "ഇന്നത്തെ പ്രാർത്ഥന",
+        "text": "കർത്താവേ, അങ്ങയുടെ തിരുഹൃദയം പോലെ എന്റെ ഹൃദയത്തെ വിശാലവും വിപുലവുമാക്കുക.\n\nഈ പ്രാർത്ഥന ആവർത്തിച്ച്, എല്ലാവരെയും ആലിംഗനം ചെയ്യാൻ വിശാലമായ ഹൃദയം യാചിക്കുക."
       },
       "task": {
-        "title": "Today's Task",
-        "detail": "Before you go to bed, do at least one act of kindness for someone that goes beyond what you would normally do—an out-of-the-ordinary generous deed."
+        "title": "ഇന്നത്തെ ചുമതല",
+        "detail": "ഉറങ്ങാൻ പോകുന്നതിന് മുമ്പ്, സാധാരണ ചെയ്യുന്നതിന് അപ്പുറത്തുള്ള ഒരു ദയാപ്രവൃത്തിയെങ്കിലും ആർക്കെങ്കിലും ചെയ്യുക—സാധാരണയ്ക്ക് അതീതമായ ഒരു ഉദാര പ്രവൃത്തി."
       },
       "reflection": [
-        "Wherever an altar is raised and sacrifice is offered to the true God, His dominion is established in that place.",
-        "Demonic altars already stood in Canaan; Abraham built an altar to Yahweh so God's presence would dwell there.",
-        "If the works of the Lord seem absent in your family: go to confession, then attend Holy Mass every day—repair the broken altar.",
-        "Renounce every claim the devil may have over your home through generations, and confess Jesus as the only Lord of your family."
+        "സത്യദൈവത്തിന് ബലിപീഠം ഉയർത്തി ബലി അർപ്പിക്കുന്നിടത്തെല്ലാം, ആ സ്ഥലത്ത് അവന്റെ ആധിപത്യം സ്ഥാപിതമാകുന്നു.",
+        "കാനാനിൽ ഇതിനകം ദുഷ്ടബലിപീഠങ്ങൾ ഉണ്ടായിരുന്നു; ദൈവസാന്നിധ്യം അവിടെ വസിക്കാൻ അബ്രഹാം യഹോവയ്ക്ക് ഒരു ബലിപീഠം പണിതു.",
+        "നിങ്ങളുടെ കുടുംബത്തിൽ കർത്താവിന്റെ പ്രവൃത്തികൾ ഇല്ലാത്തതായി തോന്നുന്നുവെങ്കിൽ: കുമ്പസാരത്തിന് പോകുക, പിന്നീട് ഓരോ ദിവസവും വിശുദ്ധ കുർബാനയിൽ പങ്കെടുക്കുക—തകർന്ന ബലിപീഠം നന്നാക്കുക.",
+        "തലമുറകളിലൂടെ പിശാചിന് നിങ്ങളുടെ വീട്ടിന്മേൽ ഉണ്ടായേക്കാവുന്ന ഏത് അവകാശവാദവും ഉപേക്ഷിക്കുക; യേശു മാത്രമാണ് നിങ്ങളുടെ കുടുംബത്തിന്റെ കർത്താവെന്ന് ഏറ്റുപറയുക."
       ],
-      "closing": "O Sacrament most holy, O Sacrament divine, all praise and all thanksgiving be every moment Thine."
+      "closing": "അത്യന്തം വിശുദ്ധമായ കുർബാനേ, ദിവ്യകാരുണ്യമേ, ഓരോ നിമിഷവും അങ്ങേക്ക് എല്ലാ സ്തുതിയും നന്ദിയും ഉണ്ടാകട്ടെ."
     },
     {
       "day": 6,
-      "theme": "Melchizedek & Blessing",
-      "scripture": "Genesis 14:17–20 · Joshua 24:2 · Joel 2:25",
+      "theme": "മൽക്കീസേദെക്കും അനുഗ്രഹവും",
+      "scripture": "ഉല്പത്തി 14:17–20 · യോശുവ 24:2 · യോവേൽ 2:25",
       "emoji": "🍷",
       "color": "#ff7a59",
-      "summary": "Melchizedek brought bread and wine and restored to Abraham the ancestral blessing that had been broken by idolatry. Lost blessings are reclaimed at the altar through Holy Mass.",
-      "keyThought": "Whatever divine grace our ancestors may have lost, we reclaim through the altar—by offering ourselves in sacrifice and participating in Holy Mass.",
+      "summary": "മൽക്കീസേദെക്ക് അപ്പവും വീഞ്ഞും കൊണ്ടുവന്ന് വിഗ്രഹാരാധനയാൽ തകർന്ന പൂർവിക അനുഗ്രഹം അബ്രഹാമിന് പുനഃസ്ഥാപിച്ചു. നഷ്ടപ്പെട്ട അനുഗ്രഹങ്ങൾ വിശുദ്ധ കുർബാനയിലൂടെ ബലിപീഠത്തിൽ തിരിച്ചുപിടിക്കപ്പെടുന്നു.",
+      "keyThought": "നമ്മുടെ പിതാക്കന്മാർ നഷ്ടപ്പെടുത്തിയ ഏത് ദൈവീയ കൃപയും നാം ബലിപീഠത്തിലൂടെ തിരിച്ചുപിടിക്കുന്നു—സ്വയം ബലിയായി അർപ്പിച്ച് വിശുദ്ധ കുർബാനയിൽ പങ്കെടുത്തുകൊണ്ട്.",
       "virtue": {
-        "title": "Forgiveness",
-        "detail": "Decide before the Lord to forgive from the heart those who have hurt you, made you weep, or humiliated you. We can forgive only if the Lord helps us."
+        "title": "ക്ഷമ",
+        "detail": "നിങ്ങളെ വേദനിപ്പിച്ചവരെയും കരയിച്ചവരെയും അപമാനിച്ചവരെയും ഹൃദയത്തിൽ നിന്നും ക്ഷമിക്കാൻ കർത്താവിന് മുമ്പിൽ തീരുമാനിക്കുക. കർത്താവ് സഹായിച്ചാൽ മാത്രമേ നമുക്ക് ക്ഷമിക്കാനാകൂ."
       },
       "evil": {
-        "title": "Enmity",
-        "detail": "Pray for the grace to put an end to enmity, overcome hostility, and live in love."
+        "title": "ശത്രുത",
+        "detail": "ശത്രുത അവസാനിപ്പിക്കാനും വിദ്വേഷം മറികടക്കാനും സ്നേഹത്തിൽ ജീവിക്കാനുമുള്ള കൃപയ്ക്കായി പ്രാർത്ഥിക്കുക."
       },
       "prayer": {
-        "title": "Today's Prayer",
-        "text": "Lord, forgive our debts and our sins just as we have forgiven our debtors.\n\nRepeat this prayer many times today."
+        "title": "ഇന്നത്തെ പ്രാർത്ഥന",
+        "text": "കർത്താവേ, ഞങ്ങൾ ഞങ്ങളുടെ കടക്കാരോട് ക്ഷമിച്ചതുപോലെ ഞങ്ങളുടെ കടങ്ങളും പാപങ്ങളും ക്ഷമിക്കണമേ.\n\nഇന്ന് ഈ പ്രാർത്ഥന പലതവണ ആവർത്തിക്കുക."
       },
       "task": {
-        "title": "Today's Task",
-        "detail": "Read the hymn to love in 1 Corinthians 13 two or three times. Then pray for the grace to love everyone, forgive everyone, and receive a heart broad enough to embrace all. Also thank God for the blessings He has given you."
+        "title": "ഇന്നത്തെ ചുമതല",
+        "detail": "1 കോറിന്ത്യർ 13-ലെ സ്നേഹഗീതം രണ്ടോ മൂന്നോ തവണ വായിക്കുക. പിന്നീട് എല്ലാവരെയും സ്നേഹിക്കാനും എല്ലാവരോടും ക്ഷമിക്കാനും എല്ലാവരെയും ആലിംഗനം ചെയ്യാൻ വിശാലമായ ഹൃദയം ലഭിക്കാനുമുള്ള കൃപയ്ക്കായി പ്രാർത്ഥിക്കുക. ദൈവം നൽകിയ അനുഗ്രഹങ്ങൾക്ക് നന്ദിയും പറയുക."
       },
       "reflection": [
-        "A blessing is God's grace passed from God through human hands—from generation to generation.",
-        "Abraham's family line had lost the blessing through idolatry. Melchizedek restored it through bread and wine offered as a priest of God Most High.",
-        "If ancestors caused tears, injustice, idolatry, or superstition, the way forward is to build altars and offer sacrifice—participate in Holy Mass every day.",
-        "The first 10 days are for sanctification. Write key points in a notebook, do the tasks, and pray for your ancestors daily."
+        "അനുഗ്രഹം ദൈവത്തിൽ നിന്നും മനുഷ്യക്കൈകളിലൂടെ—തലമുറയിൽ നിന്നും തലമുറയിലേക്ക്—കൈമാറപ്പെടുന്ന ദൈവകൃപയാണ്.",
+        "അബ്രഹാമിന്റെ കുടുംബവംശം വിഗ്രഹാരാധനയാൽ അനുഗ്രഹം നഷ്ടപ്പെടുത്തിയിരുന്നു. അത്യുന്നതനായ ദൈവത്തിന്റെ പുരോഹിതനായി അപ്പവും വീഞ്ഞും അർപ്പിച്ചുകൊണ്ട് മൽക്കീസേദെക്ക് അത് പുനഃസ്ഥാപിച്ചു.",
+        "പിതാക്കന്മാർ കണ്ണീരോ അനീതിയോ വിഗ്രഹാരാധനയോ അന്ധവിശ്വാസമോ ഉണ്ടാക്കിയെങ്കിൽ, മുന്നോട്ടുള്ള വഴി ബലിപീഠങ്ങൾ പണിത് ബലി അർപ്പിക്കുകയാണ്—ഓരോ ദിവസവും വിശുദ്ധ കുർബാനയിൽ പങ്കെടുക്കുക.",
+        "ആദ്യ 10 ദിനങ്ങൾ വിശുദ്ധീകരണത്തിനുള്ളതാണ്. പ്രധാന കാര്യങ്ങൾ നോട്ട്ബുക്കിൽ എഴുതുക, ചുമതലകൾ ചെയ്യുക, ഓരോ ദിവസവും പിതാക്കന്മാർക്ക് വേണ്ടി പ്രാർത്ഥിക്കുക."
       ],
-      "closing": "O Sacrament most holy, O Sacrament divine, all praise and all thanksgiving be every moment Thine."
+      "closing": "അത്യന്തം വിശുദ്ധമായ കുർബാനേ, ദിവ്യകാരുണ്യമേ, ഓരോ നിമിഷവും അങ്ങേക്ക് എല്ലാ സ്തുതിയും നന്ദിയും ഉണ്ടാകട്ടെ."
     },
     {
       "day": 7,
-      "theme": "Abraham Offers Isaac",
-      "scripture": "Genesis 22 · Lamentations 5:21 · John 1:29",
+      "theme": "അബ്രഹാം ഈസഹാക്കിനെ അർപ്പിക്കുന്നു",
+      "scripture": "ഉല്പത്തി 22 · വിലാപങ്ങൾ 5:21 · യോഹന്നാൻ 1:29",
       "emoji": "⛰️",
       "color": "#9ecbff",
-      "summary": "Abraham's sacrifice of Isaac foreshadows the Cross and the Holy Eucharist. Isaac was spared; Jesus was not. Every Mass is the memorial of our Savior who died in our place.",
-      "keyThought": "The Holy Eucharist is a substitutionary sacrifice—Christ took the punishment that belonged to us. At every Mass we proclaim: He died in my place.",
+      "summary": "ഈസഹാക്കിനെ അർപ്പിച്ച അബ്രഹാമിന്റെ ബലി കുരിശിന്റെയും ദിവ്യകാരുണ്യത്തിന്റെയും മുൻനിഴലാണ്. ഈസഹാക്ക് രക്ഷപ്പെട്ടു; യേശു രക്ഷപ്പെട്ടില്ല. ഓരോ കുർബാനയും നമുക്ക് പകരം മരിച്ച രക്ഷകന്റെ സ്മരണയാണ്.",
+      "keyThought": "ദിവ്യകാരുണ്യം ഒരു പകരബലിയാണ്—നമ്മുടേതായിരുന്ന ശിക്ഷ ക്രിസ്തു ഏറ്റെടുത്തു. ഓരോ കുർബാനയിലും നാം പ്രഖ്യാപിക്കുന്നു: അവൻ എന്റെ സ്ഥാനത്ത് മരിച്ചു.",
       "virtue": {
-        "title": "Diligence",
-        "detail": "Use your time for prayer and God's Word. Resist wasting hours on endless scrolling."
+        "title": "ഉത്സാഹം",
+        "detail": "നിങ്ങളുടെ സമയം പ്രാർത്ഥനയ്ക്കും ദൈവവചനത്തിനും ഉപയോഗിക്കുക. അനന്തമായ സ്ക്രോളിങ്ങിൽ മണിക്കൂറുകൾ പാഴാക്കുന്നതിനെ ചെറുക്കുക."
       },
       "evil": {
-        "title": "Sloth",
-        "detail": "Renounce laziness and time wasted on reels, shorts, social media, and constant scrolling. The Lord told us to pray—not to scroll."
+        "title": "മടി",
+        "detail": "മടിയും റീലുകൾ, ഷോർട്ടുകൾ, സോഷ്യൽ മീഡിയ, നിരന്തര സ്ക്രോളിങ്ങ് എന്നിവയില് പാഴാക്കുന്ന സമയവും ഉപേക്ഷിക്കുക. കർത്താവ് പറഞ്ഞത് പ്രാർത്ഥിക്കാനാണ്—സ്ക്രോൾ ചെയ്യാനല്ല."
       },
       "prayer": {
-        "title": "Today's Prayer — Lamentations 5:21",
-        "text": "Restore us to Yourself, O Lord, that we may be restored.\nRenew our days as of old."
+        "title": "ഇന്നത്തെ പ്രാർത്ഥന — വിലാപങ്ങൾ 5:21",
+        "text": "കർത്താവേ, ഞങ്ങളെ അങ്ങയിലേക്ക് തിരിച്ചുകൊണ്ടുവരിക; അപ്പോൾ ഞങ്ങൾ തിരിച്ചുവരും.\nപുരാതനകാലത്തെപ്പോലെ ഞങ്ങളുടെ ദിനങ്ങൾ പുതുക്കുക."
       },
       "task": {
-        "title": "Today's Task",
-        "detail": "Decide to wake up 15 minutes earlier than usual tomorrow morning, and spend that time either reading the Bible or praying."
+        "title": "ഇന്നത്തെ ചുമതല",
+        "detail": "നാളെ രാവിലെ സാധാരണയേക്കാൾ 15 മിനിറ്ട് നേരത്തെ എഴുന്നേൽക്കാൻ തീരുമാനിക്കുക; ആ സമയം ബൈബിൾ വായിക്കുകയോ പ്രാർത്ഥിക്കുകയോ ചെയ്യുക."
       },
       "reflection": [
-        "Abraham and the Father both offered the only son they loved; Mount Moriah and Calvary are parts of the same mountain; both sons carried wood and submitted willingly.",
-        "Abraham said God would provide the lamb—fulfilled not by the ram, but by Jesus, the Lamb of God.",
-        "Through Abraham's singular descendant—Jesus—all nations are blessed (Genesis 22:18).",
-        "Holy Mass is also an atoning sacrifice that gradually lifts the burden of our sins. Ask forgiveness whenever you offer Mass."
+        "അബ്രഹാമും പിതാവും തങ്ങൾ സ്നേഹിച്ച ഏകപുത്രനെ അർപ്പിച്ചു; മോറിയാപർവതവും കൽവരിയും ഒരേ പർവതത്തിന്റെ ഭാഗങ്ങളാണ്; രണ്ട് പുത്രന്മാരും മരം ചുമന്ന് സ്വമേധയാ കീഴടങ്ങി.",
+        "ദൈവം കുഞ്ഞാടിനെ ഒരുക്കുമെന്ന് അബ്രഹാം പറഞ്ഞു—ആട്ടുകൊറ്റനിലൂടെയല്ല, ദൈവക്കുഞ്ഞാടായ യേശുവിലൂടെയാണ് അത് നിറവേറിയത്.",
+        "അബ്രഹാമിന്റെ ഏക സന്തതിയായ യേശുവിലൂടെ സകല ജാതികളും അനുഗ്രഹിക്കപ്പെടുന്നു (ഉല്പത്തി 22:18).",
+        "വിശുദ്ധ കുർബാന നമ്മുടെ പാപഭാരം ക്രമേണ നീക്കുന്ന പ്രായശ്ചിത്ത ബലി കൂടിയാണ്. കുർബാന അർപ്പിക്കുമ്പോഴെല്ലാം ക്ഷമ യാചിക്കുക."
       ],
-      "closing": "O Sacrament most holy, O Sacrament divine, all praise and all thanksgiving be every moment Thine."
+      "closing": "അത്യന്തം വിശുദ്ധമായ കുർബാനേ, ദിവ്യകാരുണ്യമേ, ഓരോ നിമിഷവും അങ്ങേക്ക് എല്ലാ സ്തുതിയും നന്ദിയും ഉണ്ടാകട്ടെ."
     },
     {
       "day": 8,
-      "theme": "The Altar",
-      "scripture": "Genesis 28:10–19 · Exodus 20:24 · Judges 6:25–26",
+      "theme": "ബലിപീഠം",
+      "scripture": "ഉല്പത്തി 28:10–19 · പുറപ്പാട് 20:24 · ന്യായാധിപന്മാർ 6:25–26",
       "emoji": "⛪",
       "color": "#ff5aad",
-      "summary": "An altar is more than stone or wood—it is the place where God comes down to bless His people. Altars are living: even after we die, the work of God there continues through the generations.",
-      "keyThought": "Every Holy Mass builds an altar that does not end with our lifetime. Tear down evil altars by building an altar to the Lord—through worship.",
+      "summary": "ബലിപീഠം കല്ലോ മരമോ മാത്രമല്ല—ദൈവം തന്റെ ജനത്തെ അനുഗ്രഹിക്കാൻ ഇറങ്ങിവരുന്ന സ്ഥലമാണ്. ബലിപീഠങ്ങൾ ജീവിക്കുന്നവയാണ്: നാം മരിച്ച ശേഷവും അവിടുത്തെ ദൈവപ്രവൃത്തി തലമുറകളിലൂടെ തുടരുന്നു.",
+      "keyThought": "ഓരോ വിശുദ്ധ കുർബാനയും നമ്മുടെ ആയുസ്സോടെ അവസാനിക്കാത്ത ഒരു ബലിപീഠം പണിയുന്നു. കർത്താവിന് ബലിപീഠം പണിതുകൊണ്ട്—ആരാധനയിലൂടെ—ദുഷ്ടബലിപീഠങ്ങൾ തകർക്കുക.",
       "virtue": {
-        "title": "Gratitude",
-        "detail": "Remember eight or nine blessings in your life and thank God for them, so gratitude becomes a habit."
+        "title": "നന്ദി",
+        "detail": "നിങ്ങളുടെ ജീവിതത്തിലെ എട്ടോ ഒമ്പതോ അനുഗ്രഹങ്ങൾ ഓർത്ത് അവയ്ക്ക് ദൈവത്തോട് നന്ദി പറയുക; അങ്ങനെ നന്ദി ഒരു ശീലമായി മാറട്ടെ."
       },
       "evil": {
-        "title": "Ingratitude & Complaining",
-        "detail": "Remove ingratitude and the habit of complaining—one of the clearest signs of an unthankful heart."
+        "title": "നന്ദികേടും പരാതിയും",
+        "detail": "നന്ദികേടും പരാതിപ്പെടുന്ന ശീലവും നീക്കം ചെയ്യുക—നന്ദിയില്ലാത്ത ഹൃദയത്തിന്റെ ഏറ്റവും വ്യക്തമായ അടയാളങ്ങളിലൊന്ന്."
       },
       "prayer": {
-        "title": "Today's Prayer — Psalm 116:12–14",
-        "text": "What shall I render to the Lord for all his bounty to me?\nI will lift up the cup of salvation and call on the name of the Lord.\nI will pay my vows to the Lord in the presence of all his people."
+        "title": "ഇന്നത്തെ പ്രാർത്ഥന — സങ്കീർത്തനം 116:12–14",
+        "text": "കർത്താവ് എനിക്ക് ചെയ്ത എല്ലാ നന്മകൾക്കും ഞാൻ അവന് എന്ത് പ്രതിഫലം കൊടുക്കും?\nഞാൻ രക്ഷയുടെ പാനപാത്രം എടുത്തുയർത്തി കർത്താവിന്റെ നാമം വിളിച്ചപേക്ഷിക്കും.\nഎന്റെ എല്ലാ ജനത്തിന്റെയും മുമ്പിൽ ഞാൻ കർത്താവിനോടുള്ള നേർച്ചകൾ നിറവേറ്റും."
       },
       "task": {
-        "title": "Today's Task",
-        "detail": "Spend one whole day without complaining—not even once, no matter what happens. Also thank God for eight or nine specific blessings."
+        "title": "ഇന്നത്തെ ചുമതല",
+        "detail": "എന്ത് സംഭവിച്ചാലും ഒരിക്കൽ പോലും പരാതിപ്പെടാതെ ഒരു പൂർണ്ണ ദിവസം ചെലവഴിക്കുക. എട്ടോ ഒമ്പതോ പ്രത്യേക അനുഗ്രഹങ്ങൾക്ക് ദൈവത്തോട് നന്ദിയും പറയുക."
       },
       "reflection": [
-        "Expect obstacles after the first seven days: busyness, quarrels, fear dreams, sudden temptations. Do not be afraid—this can mean your prayer is striking where it should. Remain vigilant.",
-        "An altar is the runway where God lands—the medium by which His presence and power enter human life (Exodus 20:24).",
-        "Jacob at Bethel lay on a stone from Abraham's altar; the altar's power was still alive. Altars built to God—or to the devil—continue through generations.",
-        "If ancestors built altars to the devil, tear them down by building an altar to the Lord: confess Jesus, worship, and attend Holy Mass faithfully."
+        "ആദ്യ ഏഴ് ദിനങ്ങൾക്കുശേഷം തടസ്സങ്ങൾ പ്രതീക്ഷിക്കുക: തിരക്ക്, വഴക്ക്, ഭയസ്വപ്നങ്ങൾ, പെട്ടെന്നുള്ള പ്രലോഭനങ്ങൾ. ഭയപ്പെടേണ്ട—നിങ്ങളുടെ പ്രാർത്ഥന വേണ്ടിടത്ത് തട്ടുന്നുവെന്ന് അർത്ഥമാകാം ഇത്. ജാഗ്രതയോടെ തുടരുക.",
+        "ബലിപീഠം ദൈവം ഇറങ്ങിവരുന്ന റൻവേയാണ്—അവന്റെ സാന്നിധ്യവും ശക്തിയും മനുഷ്യജീവിതത്തിലേക്ക് പ്രവേശിക്കുന്ന മാർഗ്ഗം (പുറപ്പാട് 20:24).",
+        "ബേഥേലിൽ യാക്കോബ് അബ്രഹാമിന്റെ ബലിപീഠത്തിലെ ഒരു കല്ലിൽ കിടന്നു; ബലിപീഠത്തിന്റെ ശക്തി ഇപ്പോഴും ജീവിച്ചിരുന്നു. ദൈവത്തിനോ പിശാചിനോ പണിത ബലിപീഠങ്ങൾ തലമുറകളിലൂടെ തുടരുന്നു.",
+        "പിതാക്കന്മാർ പിശാചിന് ബലിപീഠങ്ങൾ പണിതിട്ടുണ്ടെങ്കിൽ, കർത്താവിന് ബലിപീഠം പണിതുകൊണ്ട് അവ തകർക്കുക: യേശുവിനെ ഏറ്റുപറയുക, ആരാധിക്കുക, വിശ്വസ്തതയോടെ വിശുദ്ധ കുർബാനയിൽ പങ്കെടുക്കുക."
       ],
-      "closing": "O Sacrament most holy, O Sacrament divine, all praise and all thanksgiving be every moment Thine."
+      "closing": "അത്യന്തം വിശുദ്ധമായ കുർബാനേ, ദിവ്യകാരുണ്യമേ, ഓരോ നിമിഷവും അങ്ങേക്ക് എല്ലാ സ്തുതിയും നന്ദിയും ഉണ്ടാകട്ടെ."
     },
     {
       "day": 9,
-      "theme": "Joseph & Jesus",
-      "scripture": "Genesis 41:46–49 · Romans 8:19–23 · Ephesians 3:14–19",
+      "theme": "യോസേഫും യേശുവും",
+      "scripture": "ഉല്പത്തി 41:46–49 · റോമർ 8:19–23 · എഫേസോസ് 3:14–19",
       "emoji": "🌾",
       "color": "#ff9ad5",
-      "summary": "Joseph stored grain and saved his world; Jesus gives Himself as the Bread of Life and saves the world. Behind the Eucharist stands His lifelong sacrifice of love—and creation itself is offered and redeemed at the altar.",
-      "keyThought": "If we want to know how much Jesus loved us, look to the Cross. If we want to know how much Jesus loves us, look to the Holy Eucharist.",
+      "summary": "യോസേഫ് ധാന്യം സംഭരിച്ച് തന്റെ ലോകത്തെ രക്ഷിച്ചു; യേശു ജീവന്റെ അപ്പമായി സ്വയം നൽകി ലോകത്തെ രക്ഷിക്കുന്നു. ദിവ്യകാരുണ്യത്തിന് പിന്നിൽ അവന്റെ ജീവിതകാല സ്നേഹബലി നിലകൊള്ളുന്നു—സൃഷ്ടി തന്നെ ബലിപീഠത്തിൽ അർപ്പിക്കപ്പെടുകയും വീണ്ടെടുക്കപ്പെടുകയും ചെയ്യുന്നു.",
+      "keyThought": "യേശു നമ്മെ എത്രമാത്രം സ്നേഹിച്ചുവെന്ന് അറിയണമെങ്കിൽ കുരിശിലേക്ക് നോക്കുക. യേശു നമ്മെ എത്രമാത്രം സ്നേഹിക്കുന്നുവെന്ന് അറിയണമെങ്കിൽ ദിവ്യകാരുണ്യത്തിലേക്ക് നോക്കുക.",
       "virtue": {
-        "title": "Temperance",
-        "detail": "Practice self-control in eating. Give food only the importance it deserves, and stand against a culture that lives only for food."
+        "title": "മിതത്വം",
+        "detail": "ഭക്ഷണത്തിൽ ആത്മനിയന്ത്രണം പരിശീലിക്കുക. ഭക്ഷണത്തിന് അർഹമായ പ്രാധാന്യം മാത്രം നൽകുക; ഭക്ഷണത്തിനുവേണ്ടി മാത്രം ജീവിക്കുന്ന സംസ്കാരത്തെ ചെറുക്കുക."
       },
       "evil": {
-        "title": "Gluttony",
-        "detail": "Renounce unhealthy attachment to food and excess in eating. From time to time, be willing to give up even your favorite foods."
+        "title": "അതിഭുജനം",
+        "detail": "ഭക്ഷണത്തോടുള്ള അനാരോഗ്യകരമായ ആസക്തിയും അതിഭക്ഷണവും ഉപേക്ഷിക്കുക. ഇടയ്ക്കിടെ നിങ്ങളുടെ ഇഷ്ടഭക്ഷണങ്ങൾ പോലും ഉപേക്ഷിക്കാൻ തയ്യാറാകുക."
       },
       "prayer": {
-        "title": "Today's Prayer",
-        "text": "Lord, help me to love Your grace more than food."
+        "title": "ഇന്നത്തെ പ്രാർത്ഥന",
+        "text": "കർത്താവേ, ഭക്ഷണത്തെക്കാൾ അങ്ങയുടെ കൃപയെ കൂടുതൽ സ്നേഹിക്കാൻ എന്നെ സഹായിക്കുക."
       },
       "task": {
-        "title": "Today's Task",
-        "detail": "Try to give up your favorite food today—even if it is on the table and available. Choose not to have it for the Lord’s sake as a spiritual exercise."
+        "title": "ഇന്നത്തെ ചുമതല",
+        "detail": "ഇന്ന് നിങ്ങളുടെ ഇഷ്ടഭക്ഷണം ഉപേക്ഷിക്കാൻ ശ്രമിക്കുക—മേശപ്പുറത്ത് ലഭ്യമായാലും. ആത്മീയ അഭ്യാസമായി കർത്താവിനുവേണ്ടി അത് കഴിക്കാതിരിക്കുക."
       },
       "reflection": [
-        "Joseph and Jesus share many parallels: beloved sons, hated from jealousy, sold for a slave’s price, stripped of garments, falsely accused, cast into a pit, with two criminals, ministry at age thirty, raised to glory, saviors who forgive.",
-        "Joseph saved with grain after a lifetime of tears; Jesus saves through His Body and Blood after offering His whole life.",
-        "In the Eucharist, bread and wine—fruit of the earth—symbolically offer all creation on the altar for cosmic redemption.",
-        "Care for creation is part of Eucharistic spirituality: plant and protect life around you; do not litter or harm the earth."
+        "യോസേഫിനും യേശുവിനും നിരവധി സമാന്തരങ്ങൾ ഉണ്ട്: പ്രിയപുത്രന്മാർ, അസൂയയാൽ വെറുക്കപ്പെട്ടവർ, അടിമവിലയ്ക്ക് വിറ്റവർ, വസ്ത്രം അഴിച്ചെടുക്കപ്പെട്ടവർ, കള്ളക്കുറ്റം ചുമത്തപ്പെട്ടവർ, കുഴിയിലിടപ്പെട്ടവർ, രണ്ട് കുറ്റവാളികളോടൊപ്പം, മുപ്പതാം വയസ്സിൽ ശുശ്രൂഷ, മഹത്വത്തിലേക്ക് ഉയർത്തപ്പെട്ടവർ, ക്ഷമിക്കുന്ന രക്ഷകർ.",
+        "യോസേഫ് ഒരു ജീവിതകാല കണ്ണീരിനുശേഷം ധാന്യത്താൽ രക്ഷിച്ചു; യേശു തന്റെ മുഴുവൻ ജീവിതം അർപ്പിച്ചതിനുശേഷം തന്റെ ശരീരത്തിലും രക്തത്തിലും രക്ഷിക്കുന്നു.",
+        "ദിവ്യകാരുണ്യത്തിൽ അപ്പവും വീഞ്ഞും—ഭൂമിയുടെ ഫലം—പ്രപഞ്ച വീണ്ടെടുപ്പിനായി ബലിപീഠത്തിൽ സകല സൃഷ്ടിയെയും പ്രതീകാത്മകമായി അർപ്പിക്കുന്നു.",
+        "സൃഷ്ടിപരിപാലനം ദിവ്യകാരുണ്യ ആത്മീയതയുടെ ഭാഗമാണ്: നിങ്ങളുടെ ചുറ്റുമുള്ള ജീവൻ നട്ടുവളർത്തുകയും സംരക്ഷിക്കുകയും ചെയ്യുക; ഭൂമിയെ മലിനമാക്കുകയോ ഹാനിപ്പെടുത്തുകയോ ചെയ്യരുത്."
       ],
-      "closing": "O Sacrament most holy, O Sacrament divine, all praise and all thanksgiving be every moment Thine."
+      "closing": "അത്യന്തം വിശുദ്ധമായ കുർബാനേ, ദിവ്യകാരുണ്യമേ, ഓരോ നിമിഷവും അങ്ങേക്ക് എല്ലാ സ്തുതിയും നന്ദിയും ഉണ്ടാകട്ടെ."
     }
   ]
 }
