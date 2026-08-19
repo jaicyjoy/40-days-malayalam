@@ -42,11 +42,32 @@
     toastTimer = setTimeout(() => els.toast.classList.remove("show"), 2800);
   }
 
+  function fillWithLinks(el, text) {
+    el.textContent = "";
+    const source = text || "";
+    const re = /shapavimuthi\.html/g;
+    let last = 0;
+    let match;
+    while ((match = re.exec(source))) {
+      if (match.index > last) {
+        el.appendChild(document.createTextNode(source.slice(last, match.index)));
+      }
+      const a = document.createElement("a");
+      a.href = "shapavimuthi.html";
+      a.textContent = "ശാപവിടുതൽ പ്രാർത്ഥന";
+      el.appendChild(a);
+      last = match.index + match[0].length;
+    }
+    if (last < source.length) {
+      el.appendChild(document.createTextNode(source.slice(last)));
+    }
+  }
+
   function renderPractices(list) {
     els.practices.innerHTML = "";
     list.forEach((item) => {
       const li = document.createElement("li");
-      li.textContent = item;
+      fillWithLinks(li, item);
       els.practices.appendChild(li);
     });
   }
@@ -113,7 +134,7 @@
     els.prayerTitle.textContent = day.prayer.title || "ഇന്നത്തെ പ്രാർത്ഥന";
     els.prayer.textContent = day.prayer.text;
     els.taskTitle.textContent = day.task.title || "ഇന്നത്തെ ചുമതല";
-    els.task.textContent = day.task.detail;
+    fillWithLinks(els.task, day.task.detail);
     els.closing.textContent = day.closing || "";
 
     els.hero.style.setProperty("--ch-color", day.color || "#3ec6ff");
@@ -122,7 +143,7 @@
     els.reflection.innerHTML = "";
     (day.reflection || []).forEach((point) => {
       const li = document.createElement("li");
-      li.textContent = point;
+      fillWithLinks(li, point);
       els.reflection.appendChild(li);
     });
 
