@@ -44,8 +44,8 @@ causes = [
 ]
 
 causes_html = "\n".join(
-  f'      <li><strong>{i}.</strong> {title} <span class="refs">({refs})</span></li>'
-  for i, (title, refs) in enumerate(causes, 1)
+  f'      <li>{title} <span class="refs">({refs})</span></li>'
+  for title, refs in causes
 )
 
 words_section = """
